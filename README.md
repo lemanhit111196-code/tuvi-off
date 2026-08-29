@@ -82,6 +82,7 @@ for row in conn.execute(
 | Vị trí Tử Vi | `tu_vi_cung` | 12 |
 | Cung Mệnh | `menh_cung` | 12 |
 | Cung Thân | `than_cung` | 12 |
+| Tên 12 cung | `cung_label_0..11` | lưu trong CSV full-detail |
 | Năm Can-Chi | `year_index` | 60 |
 | Tháng / Giờ / Giới tính | `lunar_month`, `hour_index`, `gender_code` | 12 / 12 / 2 |
 

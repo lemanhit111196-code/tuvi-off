@@ -4,57 +4,62 @@
 
 - File: `data/tuvi_518400.sqlite`
 - Số dòng: **518.400**
-- Số cột: 40
+- Số cột: **40**
 
-Sau `chart_id`, gồm các cột dưới đây (tất cả số nguyên ngoại trừ `chart_id`).
+Tất cả cột là số nguyên (trừ `chart_id`). Toạ độ cung 0=Dần..11=Sửu; giờ 0=Tý..11=Hợi.
 
-- `chart_id`
-- `year_index`
-- `year_can_index`
-- `year_chi_index`
-- `gender_code`
-- `lunar_month`
-- `lunar_day`
-- `hour_index`
-- `duong_nam`
-- `am_nu`
-- `vong_thuan`
-- `hoa_thuan`
-- `menh_cung`
-- `than_cung`
-- `cuc_so`
-- `menh_can_index`
-- `menh_chi_index`
-- `than_can_index`
-- `than_chi_index`
-- `lai_nhan_cung`
-- `tu_vi_cung`
-- `pos_tu_vi`
-- `pos_thien_co`
-- `pos_thai_duong`
-- `pos_vu_khuc`
-- `pos_thien_dong`
-- `pos_liem_trinh`
-- `pos_thien_phu`
-- `pos_thai_am`
-- `pos_tham_lang`
-- `pos_cu_mon`
-- `pos_thien_tuong`
-- `pos_thien_luong`
-- `pos_that_sat`
-- `pos_pha_quan`
-- `pos_van_xuong`
-- `pos_van_khuc`
-- `pos_loc_ton`
-- `pos_hoa_tinh`
-- `pos_linh_tinh`
+| Cột | Ý nghĩa |
+|---|---|
+| `chart_id` | vị trí/giá trị số (tra tên bằng `metadata/dimensions.json`) |
+| `year_index` | vị trí/giá trị số (tra tên bằng `metadata/dimensions.json`) |
+| `year_can_index` | vị trí/giá trị số (tra tên bằng `metadata/dimensions.json`) |
+| `year_chi_index` | vị trí/giá trị số (tra tên bằng `metadata/dimensions.json`) |
+| `gender_code` | vị trí/giá trị số (tra tên bằng `metadata/dimensions.json`) |
+| `lunar_month` | vị trí/giá trị số (tra tên bằng `metadata/dimensions.json`) |
+| `lunar_day` | vị trí/giá trị số (tra tên bằng `metadata/dimensions.json`) |
+| `hour_index` | vị trí/giá trị số (tra tên bằng `metadata/dimensions.json`) |
+| `duong_nam` | vị trí/giá trị số (tra tên bằng `metadata/dimensions.json`) |
+| `am_nu` | vị trí/giá trị số (tra tên bằng `metadata/dimensions.json`) |
+| `vong_thuan` | vị trí/giá trị số (tra tên bằng `metadata/dimensions.json`) |
+| `hoa_thuan` | vị trí/giá trị số (tra tên bằng `metadata/dimensions.json`) |
+| `menh_cung` | vị trí/giá trị số (tra tên bằng `metadata/dimensions.json`) |
+| `than_cung` | vị trí/giá trị số (tra tên bằng `metadata/dimensions.json`) |
+| `cuc_so` | vị trí/giá trị số (tra tên bằng `metadata/dimensions.json`) |
+| `menh_can_index` | vị trí/giá trị số (tra tên bằng `metadata/dimensions.json`) |
+| `menh_chi_index` | vị trí/giá trị số (tra tên bằng `metadata/dimensions.json`) |
+| `than_can_index` | vị trí/giá trị số (tra tên bằng `metadata/dimensions.json`) |
+| `than_chi_index` | vị trí/giá trị số (tra tên bằng `metadata/dimensions.json`) |
+| `lai_nhan_cung` | vị trí/giá trị số (tra tên bằng `metadata/dimensions.json`) |
+| `tu_vi_cung` | vị trí/giá trị số (tra tên bằng `metadata/dimensions.json`) |
+| `pos_tu_vi` | vị trí/giá trị số (tra tên bằng `metadata/dimensions.json`) |
+| `pos_thien_co` | vị trí/giá trị số (tra tên bằng `metadata/dimensions.json`) |
+| `pos_thai_duong` | vị trí/giá trị số (tra tên bằng `metadata/dimensions.json`) |
+| `pos_vu_khuc` | vị trí/giá trị số (tra tên bằng `metadata/dimensions.json`) |
+| `pos_thien_dong` | vị trí/giá trị số (tra tên bằng `metadata/dimensions.json`) |
+| `pos_liem_trinh` | vị trí/giá trị số (tra tên bằng `metadata/dimensions.json`) |
+| `pos_thien_phu` | vị trí/giá trị số (tra tên bằng `metadata/dimensions.json`) |
+| `pos_thai_am` | vị trí/giá trị số (tra tên bằng `metadata/dimensions.json`) |
+| `pos_tham_lang` | vị trí/giá trị số (tra tên bằng `metadata/dimensions.json`) |
+| `pos_cu_mon` | vị trí/giá trị số (tra tên bằng `metadata/dimensions.json`) |
+| `pos_thien_tuong` | vị trí/giá trị số (tra tên bằng `metadata/dimensions.json`) |
+| `pos_thien_luong` | vị trí/giá trị số (tra tên bằng `metadata/dimensions.json`) |
+| `pos_that_sat` | vị trí/giá trị số (tra tên bằng `metadata/dimensions.json`) |
+| `pos_pha_quan` | vị trí/giá trị số (tra tên bằng `metadata/dimensions.json`) |
+| `pos_van_xuong` | vị trí/giá trị số (tra tên bằng `metadata/dimensions.json`) |
+| `pos_van_khuc` | vị trí/giá trị số (tra tên bằng `metadata/dimensions.json`) |
+| `pos_loc_ton` | vị trí/giá trị số (tra tên bằng `metadata/dimensions.json`) |
+| `pos_hoa_tinh` | vị trí/giá trị số (tra tên bằng `metadata/dimensions.json`) |
+| `pos_linh_tinh` | vị trí/giá trị số (tra tên bằng `metadata/dimensions.json`) |
 
 ## 2. CSV nén – đầy đủ chi tiết (kho partition)
 
-Gồm 5 file: `data/csv_by_cuc/tuvi_by_cuc_{2..6}.csv.gz`, chia theo `cuc_so`.
+Gồm 5 file `data/csv_by_cuc/tuvi_by_cuc_{{2..6}}.csv.gz`, chia theo `cuc_so`; mỗi file 103.680 dòng.
 
-Số cột: 144
+- Số cột: **156**
 
+- Gồm metadata, **12 cột `cung_label_*`** (tên cung theo vị trí địa bàn), và toàn bộ cột `pos_*`.
+
+- Tên cung dùng chuẩn **thuận chiều kim đồng hồ từ Mệnh** trong `docs/nguon-algorithm.md`.
 
 ### 2.1 Bảng cột đầy đủ
 
@@ -93,6 +98,18 @@ Số cột: 144
 - `group_gio`
 - `group_thang`
 - `group_gioi_tinh`
+- `cung_label_0`
+- `cung_label_1`
+- `cung_label_2`
+- `cung_label_3`
+- `cung_label_4`
+- `cung_label_5`
+- `cung_label_6`
+- `cung_label_7`
+- `cung_label_8`
+- `cung_label_9`
+- `cung_label_10`
+- `cung_label_11`
 - `pos_tu_vi`
 - `pos_thien_co`
 - `pos_thai_duong`

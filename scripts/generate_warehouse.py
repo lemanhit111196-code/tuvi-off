@@ -44,6 +44,9 @@ SQLITE_PATH = os.path.join(DATA_DIR, "tuvi_518400.sqlite")
 
 TOTAL_CHARTS = 60 * 2 * 12 * 30 * 12  # 518.400
 
+# Tên 12 cung theo vị trí địa bàn (0=Dần..11=Sửu) trong bản CSV chi tiết.
+CUNG_LABEL_COLUMNS = [f"cung_label_{i}" for i in range(12)]
+
 # Cột metadata + một số sao chính để tra cứu nhanh trong SQLite.
 # Toàn bộ chi tiết (mọi sao) nằm trong các file CSV nén chia theo Cục.
 CHART_META_COLUMNS = [
@@ -163,7 +166,8 @@ def main():
 
     # Lấy mẫu để suy đoán kiểu dữ liệu và cột.
     sample = build_chart(0, 1, 1, 0, 1)
-    csv_columns = [*CHART_META_COLUMNS, *[k for k in sample if k.startswith("pos_")]]
+    csv_columns = [*CHART_META_COLUMNS, *CUNG_LABEL_COLUMNS,
+                   *[k for k in sample if k.startswith("pos_")]]
     sql_columns = [*SQLITE_META_COLUMNS, *SQLITE_EXTRA_COLUMNS]
     col_types = infer_column_types(sql_columns, sample)
 

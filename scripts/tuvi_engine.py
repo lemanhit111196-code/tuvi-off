@@ -33,8 +33,17 @@ CHI_NAMES_CUNG = [
 ]
 HOUR_NAMES = ["Tý", "Sửu", "Dần", "Mão", "Thìn", "Tỵ",
               "Ngọ", "Mùi", "Thân", "Dậu", "Tuất", "Hợi"]
-CUNG_10 = ["Mệnh", "Huynh Đệ", "Phu Thê", "Tử Tức", "Tài Bạch", "Tật Ách",
-           "Thiên Di", "Nô Bộc", "Quan Lộc", "Điền Trạch", "Phúc Đức", "Phụ Mẫu"]
+# Tên 12 cung theo THỨ TỰ TƯƠNG ĐỐI, tính thuận chiều kim đồng hồ từ cung Mệnh:
+# Mệnh → Phụ Mẫu → Phúc Đức → Điền Trạch → Quan Lộc → Nô Bộc → Thiên Di →
+# Tật Ách → Tài Bạch → Tử Tức → Phu Thê → Huynh Đệ.
+CUNG_10 = ["Mệnh", "Phụ Mẫu", "Phúc Đức", "Điền Trạch", "Quan Lộc", "Nô Bộc",
+           "Thiên Di", "Tật Ách", "Tài Bạch", "Tử Tức", "Phu Thê", "Huynh Đệ"]
+
+
+def cung_label(pos: int, menh: int) -> str:
+    """Tên cung tại vị trí `pos` khi Mệnh an tại `menh` (thuận chiều kim đồng hồ)."""
+    return CUNG_10[(pos - menh) % 12]
+
 CUC_NAMES = {
     2: "Thủy Nhị Cục",
     3: "Mộc Tam Cục",
@@ -472,8 +481,10 @@ def build_chart(year_index: int, month: int, day: int, hour_index: int, gender_c
     # Sao mang tính "cố định" trên địa bàn.
     pos_thien_la = 2                       # Thìn
     pos_dia_vong = 8                       # Tuất
-    pos_thien_thuong = add(menh, 7)        # Nô Bộc
-    pos_thien_su = add(menh, 5)            # Tật Ách
+    # Theo thứ tự cung thuận từ Mệnh: Mệnh(0), Phụ Mẫu(1), Phúc Đức(2),
+    # Điền Trạch(3), Quan Lộc(4), Nô Bộc(5), Thiên Di(6), Tật Ách(7), ...
+    pos_thien_thuong = add(menh, 5)        # Nô Bộc
+    pos_thien_su = add(menh, 7)            # Tật Ách
     pos_dau_quan = add(add(chi, hour_index), -(month - 1))
     pos_thien_tai = add(menh, chi)
     pos_thien_tho = add(than, chi)
@@ -515,9 +526,9 @@ def build_chart(year_index: int, month: int, day: int, hour_index: int, gender_c
         "vong_thuan": int(vong_thuan),
         "hoa_thuan": int(hoa_thuan),
         "menh_cung": menh,
-        "menh_cung_label": CUNG_10[menh],
+        "menh_cung_label": cung_label(menh, menh),
         "than_cung": than,
-        "than_cung_label": CUNG_10[than],
+        "than_cung_label": cung_label(than, menh),
         "cuc_so": cac,
         "cuc_hanh": CUC_HANH[cac],
         "cuc": CUC_NAMES[cac],
@@ -642,6 +653,9 @@ def build_chart(year_index: int, month: int, day: int, hour_index: int, gender_c
     # Một số tổ hợp nhóm dễ dùng.
     row["group_cuc_tu_vi"] = f"{row['cuc']}|{row['group_tu_vi']}"
     row["group_can_chi_cuc"] = f"{can_chi_name}|{row['cuc']}"
+    # Tên 12 cung (theo vị trí địa chỉ), dùng khi muốn lập bảng 12 cung.
+    for pos in range(12):
+        row[f"cung_label_{pos}"] = cung_label(pos, menh)
     return row
 
 

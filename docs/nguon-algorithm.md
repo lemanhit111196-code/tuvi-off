@@ -42,6 +42,20 @@ Bảng tra tên (Can, Chi, Cục, 12 cung, 60 hoa giáp, các vòng sao) nằm �
 - Đi **nghịch** đến giờ sinh → an Mệnh.
 - Đi **thuận** đến giờ sinh → an Thân.
 
+**Cách gán tên 12 cung (quan trọng):** tên cung không cố định theo địa chi.
+Từ cung Mệnh đặt là **Mệnh**, đi **thuận chiều kim đồng hồ** lần lượt:
+
+```
+Mệnh → Phụ Mẫu → Phúc Đức → Điền Trạch → Quan Lộc → Nô Bộc
+     → Thiên Di → Tật Ách → Tài Bạch → Tử Tức → Phu Thê → Huynh Đệ
+```
+
+Ví dụ Mệnh tại Hợi → Hợi = Mệnh, Tý = Phụ Mẫu, Sửu = Phúc Đức,
+**Dần = Điền Trạch**, Mão = Quan Lộc, Thìn = Nô Bộc, Tỵ = Thiên Di,
+Ngọ = Tật Ách, Mùi = Tài Bạch, Thân = Tử Tức, Dậu = Phu Thê, Tuất = Huynh Đệ.
+
+Cột `cung_label_0..11` trong CSV lưu tên cung này cho từng vị trí địa bàn.
+
 Công thức trong code:
 
 ```python
