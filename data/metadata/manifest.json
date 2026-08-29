@@ -1,0 +1,35 @@
+{
+  "tong_so_la_so": 518400,
+  "partitions": [
+    {
+      "cuc_so": 2,
+      "file": "data/csv_by_cuc/tuvi_by_cuc_2.csv.gz",
+      "bytes": 1702397,
+      "sha256": "3c0529553ec5b0fda83289bb1a322f59d4c9c8c23f72224717123b81df22ea13"
+    },
+    {
+      "cuc_so": 3,
+      "file": "data/csv_by_cuc/tuvi_by_cuc_3.csv.gz",
+      "bytes": 1793848,
+      "sha256": "0bbc9ac6a12ab3d7cec55714293d7073d109147254f3c2f919fb98623dc56b53"
+    },
+    {
+      "cuc_so": 4,
+      "file": "data/csv_by_cuc/tuvi_by_cuc_4.csv.gz",
+      "bytes": 1797838,
+      "sha256": "c19587d8ef2c2aea4446cae2073f5aafd0ae394f9e3a3b3c9a9e366e13d5d185"
+    },
+    {
+      "cuc_so": 5,
+      "file": "data/csv_by_cuc/tuvi_by_cuc_5.csv.gz",
+      "bytes": 1727123,
+      "sha256": "c0fc132061b7bf4f88b04d5a57e74f63abe503bb8f8d016ff30a72b2e83929dd"
+    },
+    {
+      "cuc_so": 6,
+      "file": "data/csv_by_cuc/tuvi_by_cuc_6.csv.gz",
+      "bytes": 1820175,
+      "sha256": "78b941a38d24287c1e06ea8e1f9587d4e324c2db5f4fb781d5ab8e14aaacd2bc"
+    }
+  ]
+}
