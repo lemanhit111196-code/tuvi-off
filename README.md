@@ -14,7 +14,10 @@ tuvi-off/
 ├── scripts/
 │   ├── tuvi_engine.py                # Engine an sao (thuần Python)
 │   ├── generate_warehouse.py         # Sinh 518.400 lá số + kho SQLite + CSV partition
-│   └── query_warehouse.py            # Công cụ truy xuất kho
+│   ├── query_warehouse.py            # Công cụ truy xuất kho
+│   ├── star_knowledge_data.py        # Nội dung kiến thức sao ở cung (nguồn)
+│   ├── build_star_knowledge.py       # Build bảng star_cung_knowledge
+│   └── query_star_knowledge.py       # Truy xuất + ghép kiến thức vào lá số
 ├── docs/
 │   ├── nguon-algorithm.md            # Thuật toán, nguồn, trường phái
 │   ├── schema.md                     # Schema cột
@@ -28,6 +31,9 @@ tuvi-off/
     │   ├── tuvi_by_cuc_5.csv.gz
     │   └── tuvi_by_cuc_6.csv.gz      # 5 partition đầy đủ chi tiết theo Cục
     ├── json_sample/tuvi_sample_5.json
+    ├── star_knowledge/
+    │   ├── star_cung_knowledge.json          # Kiến thức sao ở cung (1.308 dòng)
+    │   └── star_cung_knowledge.csv.gz
     └── metadata/
         ├── groups.json               # Số lượng theo từng nhóm
         ├── dimensions.json           # Bảng tra Can, Chi, Cục, 60 hoa giáp, ...
@@ -61,6 +67,27 @@ python3 scripts/query_warehouse.py --run \
 # Đọc chi tiết đầy đủ của một partition (Cục 6) dưới dạng JSON.
 python3 scripts/query_warehouse.py --detail-group 6 --limit 5
 ```
+
+## Kiến thức sao ở cung (kho phụ)
+
+```bash
+# Build bảng kiến thức 109 sao × 12 cung = 1.308 mô tả
+python3 scripts/build_star_knowledge.py
+
+# Một sao × 12 cung
+python3 scripts/query_star_knowledge.py --star tu_vi
+
+# Một cung × tất cả sao
+python3 scripts/query_star_knowledge.py --cung 6
+
+# Ghép kiến thức vào đúng lá số trong kho (chạy nhanh, không cần đọc CSV)
+python3 scripts/query_star_knowledge.py --chart-id 106920
+python3 scripts/query_star_knowledge.py --chart-id 106920 --format md
+```
+
+Bảng `star_cung_knowledge` nằm ngay trong `data/tuvi_518400.sqlite`, có chỉ mục
+`(star_key, cung_index)` để JOIN nhanh với `charts`. Chi tiết:
+[docs/star-kien-thuc-sao-o-cung.md](docs/star-kien-thuc-sao-o-cung.md).
 
 Hoặc dùng trực tiếp SQLite / pandas / DuckDB:
 
