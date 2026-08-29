@@ -4,7 +4,7 @@
 
 ## 1. Thông tin lá số
 
-- **Ngày sinh âm lịch:**  năm (year_index 12), tháng 10, ngày 1, giờ Tý.
+- **Ngày sinh âm lịch:** Bính Tý năm (year_index 12), tháng 10, ngày 1, giờ Tý.
 - **Giới tính:** Nam.
 - **Mệnh tại Hợi** (cung **Mệnh**), **Thân tại Hợi** (cung **Mệnh**).
 - **Cục:** Mộc Tam Cục (số 3).

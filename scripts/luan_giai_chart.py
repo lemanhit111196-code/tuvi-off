@@ -40,6 +40,7 @@ from scripts.luan_giai_knowledge import (  # noqa: E402
     STAR_PROFILE,
     TUA_HOA_PROFILE,
 )
+from scripts.tuvi_engine import SEXAGENARY  # noqa: E402
 from scripts.luan_giai_objective import objective_for_star_cung  # noqa: E402
 from scripts.star_combo_knowledge import relation  # noqa: E402
 
@@ -118,8 +119,9 @@ def build_summary(row, menh, than):
     cuc_so = get(row, "cuc_so")
     cuc_name = row.get("cuc") if row.get("cuc") else CUC_PROFILE.get(cuc_so, {}).get("cuc_name", "?")
     sex = "Nam" if row.get("gender_code") == "1" else "Nữ"
+    year_can_chi = row.get("year_can_chi") or SEXAGENARY[get(row, "year_index")]
     lines = []
-    lines.append(f"- **Ngày sinh âm lịch:** {row.get('year_can_chi', '')} năm "
+    lines.append(f"- **Ngày sinh âm lịch:** {year_can_chi} năm "
                  f"(year_index {row.get('year_index')}), tháng {row.get('lunar_month')}, "
                  f"ngày {row.get('lunar_day')}, giờ {row.get('hour_label','')}.")
     lines.append(f"- **Giới tính:** {sex}.")
