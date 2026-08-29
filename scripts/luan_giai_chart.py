@@ -42,6 +42,15 @@ from scripts.luan_giai_knowledge import (  # noqa: E402
 )
 from scripts.tuvi_engine import SEXAGENARY  # noqa: E402
 from scripts.luan_giai_objective import objective_for_star_cung  # noqa: E402
+from scripts.luan_giai_integrated import (  # noqa: E402
+    build_cung_analysis,
+    build_cung_block,
+    build_overview,
+    cung_stars,
+    _main_stars,
+    _notable_phu,
+    _join_names,
+)
 from scripts.star_combo_knowledge import relation  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -291,29 +300,35 @@ def generate(chart_id: int):
     md.append("")
     md += summary
     md.append("")
-    md.append("## 2. Mệnh và Thân")
+    md.append("## 2. Tổng quan liên kết (Mệnh – Thân và trục chính)")
     md.append("")
-    md += build_menh_than(row, menh, than, sk)
+    md += build_overview(row, menh, than)
+    md.append("## 3. Mệnh và Thân (liên kết chính tinh + phụ tinh)")
     md.append("")
-    md.append("## 3. Phân tích 12 cung (cung có chính tinh thủ)")
+    # Mệnh (cung 0) + Thân (nếu khác Mệnh).
+    md += build_cung_block(row, menh, 0)
+    than_cung = (than - menh) % 12
+    if than_cung != 0:
+        md += build_cung_block(row, menh, than_cung)
+    md.append("## 4. Phân tích 12 cung (liên kết chính tinh + phụ tinh)")
     md.append("")
-    md += build_cung_profile(row, menh, sk)
-    md.append("## 4. Tứ Hoá")
+    md += build_cung_analysis(row, menh, skip={0, than_cung})
+    md.append("## 5. Tứ Hoá")
     md.append("")
     md += build_hoa(row, menh)
     md.append("")
-    md.append("## 5. Cách cục nổi bật")
+    md.append("## 6. Cách cục nổi bật")
     md.append("")
     md += build_cach(row, menh, than, sk)
     md.append("")
-    md.append("## 6. Bản chất, ưu điểm và hạn chế/tiêu cực (phân tích khách quan)")
+    md.append("## 7. Bản chất, ưu điểm và hạn chế/tiêu cực (chi tiết từng sao)")
     md.append("")
     md.append("> Phần này cố gắng nói đúng bản chất: nêu cả mặt mạnh lẫn mặt yếu, "
               "không nói giảm, không nói tránh. Kết luận cuối vẫn phụ thuộc cách cục "
               "và các sao hội chiếu.")
     md.append("")
     md += build_objective_analysis(row, menh)
-    md.append("## 7. Tổ hợp sao nổi bật (biến thể khi các sao kết hợp)")
+    md.append("## 8. Tổ hợp sao nổi bật (biến thể khi các sao kết hợp)")
     md.append("")
     md.append("> Chỉ nêu các cặp sao có nội dung trong kho tri thức tổ hợp. Vị trí "
               "cùng cung / tam hợp / xung chiếu được xác định qua toạ độ cung thực tế.")
@@ -322,7 +337,7 @@ def generate(chart_id: int):
     md += combo_lines if combo_lines else [
         "- Không phát hiện tổ hợp sao nổi bật nào trong các cặp đã ghi nhận."
     ]
-    md.append("## 8. Gợi ý cuộc sống")
+    md.append("## 9. Gợi ý cuộc sống")
     md.append("")
     md += build_advice(row, menh, than)
     md.append("")
@@ -341,7 +356,9 @@ def generate(chart_id: int):
         "than": f"{CHI_NAMES[than]} - {CUNG_NAMES[(than - menh) % 12]}",
         "cuc": cuc_name,
         "sections": {
+            "overview": build_overview(row, menh, than),
             "menh_than": build_menh_than(row, menh, than, sk),
+            "cung_integrated": build_cung_analysis(row, menh, skip={0, than_cung}),
             "cung_profile": build_cung_profile(row, menh, sk),
             "tu_hoa": build_hoa(row, menh),
             "cach": build_cach(row, menh, than, sk),

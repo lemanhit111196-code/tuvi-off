@@ -48,6 +48,20 @@ Mỗi sao × mỗi cung đều có:
 14 chính tinh có nội dung viết tay cho đủ 168 tổ hợp (14 × 12). Các phụ tinh
 được sinh từ ẩn nghĩa sao + tính chất cung.
 
+### Tầng `luan_giai_integrated` — luận giải LIÊN KẾT (chính tinh + phụ tinh)
+
+Đây là lớp đọc "liền mạch" phía trên kho tri thức:
+
+- Gom **tất cả sao đóng trong cùng một cung** (chính tinh, phụ tinh, bộ sao
+  vòng Trường Sinh / vòng Thái Tuế / vòng Lộc Tồn) thành một khối duy nhất.
+- Thay vì liệt kê từng sao rời rạc, mỗi cung có:
+  - **Bản chất liên kết** — chính tinh định hình cung, phụ tinh làm mạnh/yếu;
+  - **Điểm mạnh** — gộp mặt tích cực của chính tinh + phụ tinh tốt;
+  - **Điểm yếu / cần lưu ý** — gộp mặt hạn chế của chính tinh + phụ tinh xấu;
+  - **Gợi ý cho cung**.
+- **Tổng quan liên kết** ở đầu bài nối Mệnh – Thân – Tứ Hoá – trục Quan Lộc /
+  Tài Bạch / Phu Thê.
+
 ### Bảng `star_combo_analysis` — tổ hợp / biến thể sao (hơn 100 dòng)
 
 Khác với `star_cung_analysis` (một sao ở một cung), bảng này mô tả khi **hai sao
@@ -97,16 +111,18 @@ python3 scripts/luan_giai_chart.py --chart-id 106920 --format json
 Các phần trong bài luận giải:
 
 1. **Thông tin lá số** — năm/tháng/ngày/giờ, giới tính, Mệnh/Thân, Cục, Tử Vi.
-2. **Mệnh và Thân** — sao chính thủ Mệnh, thủ Thân, Thân cư Mệnh/Quan Lộc.
-3. **Phân tích 12 cung** — cung có chính tinh thủ, kèm chú giải theo lĩnh vực.
-4. **Tứ Hoá** — nêu Lộc/Quyền/Khoa/Kỵ.
-5. **Cách cục nổi bật** — các "cách" được phát hiện tự động.
-6. **Bản chất, ưu điểm và hạn chế/tiêu cực** — phân tích khách quan từng sao nổi bật,
-   nói thẳng mặt yếu (dựa trên bảng `star_cung_analysis`).
-7. **Tổ hợp sao nổi bật** — nêu các cặp sao thực sự gặp nhau (cùng cung / tam hợp /
+2. **Tổng quan liên kết** — nối Mệnh – Thân – trục Quan Lộc / Tài Bạch / Phu Thê.
+3. **Mệnh và Thân (liên kết)** — chính tinh + phụ tinh + bộ sao tại Mệnh/Thân.
+4. **Phân tích 12 cung (liên kết)** — mỗi cung một đoạn Bản chất liên kết /
+   Điểm mạnh / Điểm yếu, gộp chính tinh + phụ tinh + bộ sao.
+5. **Tứ Hoá** — nêu Lộc/Quyền/Khoa/Kỵ.
+6. **Cách cục nổi bật** — các "cách" được phát hiện tự động.
+7. **Bản chất, ưu điểm và hạn chế/tiêu cực (chi tiết từng sao)** — phân tích
+   khách quan từng sao nổi bật, nói thẳng mặt yếu (bảng `star_cung_analysis`).
+8. **Tổ hợp sao nổi bật** — nêu các cặp sao thực sự gặp nhau (cùng cung / tam hợp /
    xung chiếu) hoặc thuộc nhóm tổ hợp nổi tiếng; mỗi cặp trình bày
-   Bản chất / Tích cực / Tiêu cực / Lưu ý (dựa trên bảng `star_combo_analysis`).
-8. **Gợi ý cuộc sống** — khuyến nghị dựa trên lá số.
+   Bản chất / Tích cực / Tiêu cực / Lưu ý (bảng `star_combo_analysis`).
+9. **Gợi ý cuộc sống** — khuyến nghị dựa trên lá số.
 
 ## Truy xuất kho tổ hợp sao
 

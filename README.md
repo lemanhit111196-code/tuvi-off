@@ -20,6 +20,7 @@ tuvi-off/
 │   ├── query_star_knowledge.py       # Truy xuất + ghép kiến thức vào lá số
 │   ├── luan_giai_knowledge.py        # Tri thức luận giải (hồ sơ cung/cục/tứ hóa/cách)
 │   ├── luan_giai_objective.py        # Luận khách quan 3 chiều: bản chất/ưu/hạn chế
+│   ├── luan_giai_integrated.py       # Luận giải liên kết chính tinh + phụ tinh theo cung
 │   ├── star_combo_knowledge.py       # Tri thức tổ hợp / biến thể sao-gặp-sao
 │   ├── build_luan_giai_knowledge.py  # Build 6 bảng luận giải + JSON
 │   ├── build_star_combo.py           # Build bảng star_combo_analysis (107 tổ hợp)
@@ -118,9 +119,10 @@ python3 scripts/luan_giai_chart.py --chart-id 106920 --format markdown
 python3 scripts/luan_giai_chart.py --chart-id 106920 --format json
 ```
 
-Bài luận giải gồm: thông tin lá số, Mệnh/Thân, 12 cung có chính tinh thủ,
-Tứ Hoá, các cách cục, phân tích khách quan từng sao (bản chất, tích cực,
-hạn chế), tổ hợp sao nổi bật khi các sao gặp nhau và gợi ý cuộc sống. Chi tiết:
+Bài luận giải gồm: thông tin lá số, **tổng quan liên kết** (Mệnh – Thân – trục
+Quan Lộc / Tài Bạch / Phu Thê), **Mệnh/Thân và 12 cung viết liền mạch** (mỗi cung gộp
+chính tinh + phụ tinh + bộ sao thành Bản chất liên kết / Điểm mạnh / Điểm yếu),
+Tứ Hoá, các cách cục, chi tiết từng sao, tổ hợp sao nổi bật và gợi ý cuộc sống. Chi tiết:
 [docs/luan-giai-kho-tri-thuc.md](docs/luan-giai-kho-tri-thuc.md).
 
 Hoặc dùng trực tiếp SQLite / pandas / DuckDB:

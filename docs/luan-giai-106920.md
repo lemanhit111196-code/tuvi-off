@@ -10,71 +10,211 @@
 - **Cục:** Mộc Tam Cục (số 3).
 - **Sao Tử Vi:** Thìn.
 
-## 2. Mệnh và Thân
+## 2. Tổng quan liên kết (Mệnh – Thân và trục chính)
 
-**Cung Mệnh** — nền tảng tính cách và bản mệnh.
-- **Thiên Đồng** thủ Mệnh: Hiền lành, dễ gần, có lòng nhân, thích an nhàn. Thiên Đồng thủ Mệnh: hiền hoà, dễ gần, hưởng phúc, sống ổn định.
+**Đọc tổng quan:**
 
-**Cung Thân** — hoạt động thực tế và giai đoạn trưởng thành.
-- Thân cư Mệnh: bản thân và việc làm gắn chặt; thành bại do tự mình quyết.
+Mệnh tại Hợi (cung Mệnh), Thân tại Hợi (cung Mệnh — Thân cư Mệnh: bản thân và việc làm gắn chặt, thành bại do tự mình quyết).
 
-## 3. Phân tích 12 cung (cung có chính tinh thủ)
+Chính tinh đóng ở Mệnh gồm: Thiên Đồng. Nếu kể cả các phụ tinh Thiên Khôi, Địa Không, Địa Kiếp, Hóa Lộc, bản chất con người thiên về Hiền hoà, nhân từ, thích ổn định; sống dễ chịu, ít muốn đấu tranh.
+
+Trên các trục quan trọng: Quan Lộc (Thiên Cơ, Cự Môn): Giỏi chuyên môn, tư vấn, nghiên cứu; được tin cậy nhờ đầu óc ; Có tiếng nói chuyên môn, đấu tranh… ; Tài Bạch (không chính tinh): Có của, biết kiếm tiền, giữ vốn ; Phu Thê (không chính tinh): Hôn nhân thuận, có người đồng hành ; Thiên Việt Bàng quang, quý nhân, người che chở ; Thiên Đức Ân….
+
+## 3. Mệnh và Thân (liên kết chính tinh + phụ tinh)
 
 ### Mệnh — bản thân, tính cách, năng lực, định mệnh
-**Thiên Đồng**: Thiên Đồng thủ Mệnh: hiền hoà, dễ gần, hưởng phúc, sống ổn định.
+- **Chính tinh:** Thiên Đồng
+- **Phụ tinh đáng chú ý:** Thiên Khôi, Địa Không, Địa Kiếp, Hóa Lộc
+- **vòng Trường Sinh:** Trường Sinh
+- **vòng Thái Tuế:** Trực Phù
+- **vòng Lộc Tồn:** Tấu Thư
+
+**Bản chất liên kết:** Chính tinh Thiên Đồng định hình cung này: Hiền hoà, nhân từ, thích ổn định; sống dễ chịu, ít muốn đấu tranh. Về phụ tinh, Thiên Khôi, Hóa Lộc là điểm tựa, hỗ trợ (Quý nhân, văn tinh, trí tuệ, gặp người giúp đỡ; Sao nhận Lộc; lợi lộc, tài năng, may mắn toả sáng). Đồng thời Địa Không, Địa Kiếp tạo sức ép hoặc rủi ro (Hư, không, hao tán, biến động; Tai kiếp, trộm cướp, mất mát, biến cố). Về bộ sao: vòng Trường Sinh (Trường Sinh), vòng Thái Tuế (Trực Phù), vòng Lộc Tồn (Tấu Thư) — cho biết mức thịnh/suy và vận thời trong cung.
+
+**Điểm mạnh:** Dễ mến, có phúc, được người giúp; sống êm ả, có coi trọng tình thân ; Thiên Khôi Quý nhân, văn tinh, trí tuệ, gặp người giúp đỡ ; Hóa Lộc Sao nhận Lộc; lợi lộc, tài năng, may mắn toả sáng
+
+**Điểm yếu / cần lưu ý:** Thụ động, dễ dựa dẫm, thiếu tham vọng; bị lợi dụng vì hiền ; Địa Không Hư, không, hao tán, biến động ; Địa Kiếp Tai kiếp, trộm cướp, mất mát, biến cố
+
+**Gợi ý cho cung Mệnh:** Xây dựng giá trị cá nhân rõ ràng và giữ vững tinh thần.
+
+## 4. Phân tích 12 cung (liên kết chính tinh + phụ tinh)
 
 ### Phụ Mẫu — cha mẹ, trưởng bối, tổ tiên, học vấn gốc
-**Vũ Khúc**: Vũ Khúc ở Phụ Mẫu: cha mẹ nghiêm túc, biết lo tiền bạc cho con.
-**Thiên Phủ**: Thiên Phủ ở Phụ Mẫu: cha mẹ có cơ nghiệp, vững vàng.
+- **Chính tinh:** Vũ Khúc, Thiên Phủ
+- **Phụ tinh đáng chú ý:** Thiên Phúc, Thiên Trù
+- **vòng Trường Sinh:** Mộc Dục
+- **vòng Thái Tuế:** Thái Tuế
+- **vòng Lộc Tồn:** Tướng Quân
+
+**Bản chất liên kết:** Chính tinh Vũ Khúc, Thiên Phủ định hình cung này: Cha mẹ nghiêm khắc, có trách nhiệm với con; Cha mẹ có cơ nghiệp, vững vàng. Về phụ tinh, Thiên Phúc, Thiên Trù là điểm tựa, hỗ trợ (Phước lành, trợ lực, may mắn về sau; Chốn lương thực, no ấm, sinh kế). Về bộ sao: vòng Trường Sinh (Mộc Dục), vòng Thái Tuế (Thái Tuế), vòng Lộc Tồn (Tướng Quân) — cho biết mức thịnh/suy và vận thời trong cung.
+
+**Điểm mạnh:** Được cha mẹ dạy tính tự lập, cần cù, không nợ nần ; Được gia thế hỗ trợ, sống có nền tảng ; Thiên Phúc Phước lành, trợ lực, may mắn về sau ; Thiên Trù Chốn lương thực, no ấm, sinh kế
+
+**Điểm yếu / cần lưu ý:** Cha mẹ ít cởi mở, nặng về vật chất; con dễ tự ti ; Cha mẹ bảo thủ, con dễ khuôn mẫu
+
+**Gợi ý cho cung Phụ Mẫu:** Biết ơn cha mẹ, học từ người đi trước.
 
 ### Phúc Đức — phúc khí, tâm linh, tinh thần, hưởng thụ
-**Thái Dương**: Thái Dương ở Phúc Đức: tinh thần lạc quan, phúc quang minh, hay làm việc thiện.
-**Thái Âm**: Thái Âm ở Phúc Đức: tâm linh, nghệ thuật, sống nội tâm.
+- **Chính tinh:** Thái Dương, Thái Âm
+- **Phụ tinh đáng chú ý:** Quang Ấn, Thiên Không, Tả Phù, Hữu Bật, Hỏa Tinh, Tam Thai, Bát Tọa
+- **vòng Trường Sinh:** Quan Đới
+- **vòng Thái Tuế:** Thiếu Dương
+- **vòng Lộc Tồn:** Tiểu Hao
+
+**Bản chất liên kết:** Chính tinh Thái Dương, Thái Âm định hình cung này: Tinh thần lạc quan, phúc quang minh; thích làm điều tốt; Tâm linh, nghệ thuật; sống nội tâm. Về phụ tinh, Quang Ấn, Tả Phù, Hữu Bật, Tam Thai (+1) là điểm tựa, hỗ trợ (Danh vọng, học vấn, chức tước; Giúp việc, quý nhân, phù trợ, bạn hiền; Trợ lực, người giúp việc, hậu thuẫn). Đồng thời Thiên Không, Hỏa Tinh tạo sức ép hoặc rủi ro (Hư không, trống rỗng, hao hụt, khó bền; Gấp gáp, nóng nảy, tai hoạ bất ngờ; gặp miếu vượng lại thành lực). Về bộ sao: vòng Trường Sinh (Quan Đới), vòng Thái Tuế (Thiếu Dương), vòng Lộc Tồn (Tiểu Hao) — cho biết mức thịnh/suy và vận thời trong cung.
+
+**Điểm mạnh:** Có đức, dễ được người quý; tinh thần tích cực ; Có phúc, trực giác tốt, thích cái đẹp ; Quang Ấn Danh vọng, học vấn, chức tước ; Tả Phù Giúp việc, quý nhân, phù trợ, bạn hiền ; Hữu Bật Trợ lực, người giúp việc, hậu thuẫn
+
+**Điểm yếu / cần lưu ý:** Dễ mềm lòng, thích can thiệp; phúc đức đôi khi chỉ là lý tưởng ; Hay trầm tư, u sầu; thiếu thực tế ; Thiên Không Hư không, trống rỗng, hao hụt, khó bền ; Hỏa Tinh Gấp gáp, nóng nảy, tai hoạ bất ngờ; gặp miếu vượng lại thành lực
+
+**Gợi ý cho cung Phúc Đức:** Giữ tâm an, làm thiện, hưởng phúc có chừng.
 
 ### Điền Trạch — nhà cửa, đất đai, tổ nghiệp, cơ nghiệp
-**Tham Lang**: Tham Lang ở Điền Trạch: nhà cửa hoa lệ, tiêu nhiều cho đất.
+- **Chính tinh:** Tham Lang
+- **Phụ tinh đáng chú ý:** Cô Thần, Thiên Mã, Phong Cáo
+- **vòng Trường Sinh:** Lâm Quan
+- **vòng Thái Tuế:** Tang Môn
+- **vòng Lộc Tồn:** Thanh Long
+
+**Bản chất liên kết:** Chính tinh Tham Lang định hình cung này: Nhà cửa hoa lệ, tiêu cho đất đai. Về phụ tinh, Phong Cáo là điểm tựa, hỗ trợ (Tin tức, thông tin, công văn, tiếng tốt). Đồng thời Cô Thần tạo sức ép hoặc rủi ro (Cô độc, lẻ loi, thiếu người nương). Một số sao trung tính như Thiên Mã khiến cung này nhạy hơn với hoàn cảnh và cách ứng xử. Về bộ sao: vòng Trường Sinh (Lâm Quan), vòng Thái Tuế (Tang Môn), vòng Lộc Tồn (Thanh Long) — cho biết mức thịnh/suy và vận thời trong cung.
+
+**Điểm mạnh:** Sang trọng, hợp thẩm mỹ ; Phong Cáo Tin tức, thông tin, công văn, tiếng tốt
+
+**Điểm yếu / cần lưu ý:** Tiêu khoản lớn cho nhà, vay mượn ; Cô Thần Cô độc, lẻ loi, thiếu người nương
+
+**Gợi ý cho cung Điền Trạch:** Quản lý giấy tờ, mua bán rõ ràng.
 
 ### Quan Lộc — sự nghiệp, công danh, quyền lực, học chuyên môn
-**Thiên Cơ**: Thiên Cơ ở Quan Lộc: nghề nghiệp trí óc, mưu lược, có tài xử lý tình huống.
-- Sự nghiệp: Hợp nghề trí óc, nghiên cứu, kỹ thuật, phân tích, tư vấn, báo chí.
-- Tài lộc: Kiếm tiền bằng trí tuệ; cần tính toán kỹ, tránh đầu cơ.
-- Tình duyên: Duyên tình lý trí, hay lo nghĩ; nên chia sẻ nhiều hơn.
-**Cự Môn**: Cự Môn ở Quan Lộc: nghề luật, báo chí, giáo dục, truyền thông.
-- Sự nghiệp: Hợp luật, truyền thông, giáo dục, nghiên cứu, tâm lý.
-- Tài lộc: Tiền từ nghề miệng, tri thức; dễ thị phi tài chính.
-- Tình duyên: Duyên cãi vã nhiều; cần lắng nghe.
+- **Chính tinh:** Thiên Cơ, Cự Môn
+- **Phụ tinh đáng chú ý:** Hồng Loan, Linh Tinh, Đẩu Quân, Hóa Quyền
+- **vòng Trường Sinh:** Đế Vượng
+- **vòng Thái Tuế:** Thiếu Âm
+- **vòng Lộc Tồn:** Lực Sỹ
+
+**Bản chất liên kết:** Chính tinh Thiên Cơ, Cự Môn định hình cung này: Sự nghiệp thiên về trí tuệ, nghiên cứu, phân tích; thích ứng nhanh; Sự nghiệp luật, báo, giáo dục; dùng miệng kiếm ăn. Về phụ tinh, Hồng Loan, Hóa Quyền là điểm tựa, hỗ trợ (Hỷ sự, tình duyên, hôn nhân, tin vui; Sao nhận Quyền; quyền hành, thăng tiến, khống chế). Đồng thời Linh Tinh tạo sức ép hoặc rủi ro (Nóng, khó, xung đột; gặp cát tinh giảm nhẹ). Một số sao trung tính như Đẩu Quân khiến cung này nhạy hơn với hoàn cảnh và cách ứng xử. Về bộ sao: vòng Trường Sinh (Đế Vượng), vòng Thái Tuế (Thiếu Âm), vòng Lộc Tồn (Lực Sỹ) — cho biết mức thịnh/suy và vận thời trong cung.
+
+**Điểm mạnh:** Giỏi chuyên môn, tư vấn, nghiên cứu; được tin cậy nhờ đầu óc ; Có tiếng nói chuyên môn, đấu tranh tốt ; Hồng Loan Hỷ sự, tình duyên, hôn nhân, tin vui ; Hóa Quyền Sao nhận Quyền; quyền hành, thăng tiến, khống chế
+
+**Điểm yếu / cần lưu ý:** Thích đổi việc, dễ chán, kém kiên trì; công việc càng phức tạp càng dễ rối ; Thường gây tranh cãi, dễ bị ghét ; Linh Tinh Nóng, khó, xung đột; gặp cát tinh giảm nhẹ
+
+**Gợi ý cho cung Quan Lộc:** Trau dồi chuyên môn, giữ mối quan hệ.
 
 ### Nô Bộc — bạn bè, đồng nghiệp, người dưới quyền, tập thể
-**Tử Vi**: Tử Vi ở Nô Bộc: được người phục vụ, có cấp dưới hùng hậu, bạn bè phải tôn trọng.
-**Thiên Tướng**: Thiên Tướng ở Nô Bộc: bạn bè giúp đỡ, có người giỏi.
+- **Chính tinh:** Tử Vi, Thiên Tướng
+- **Phụ tinh đáng chú ý:** Đà La, Long Trì, Hoa Cái, Địa Giải, Văn Khúc, Thiên La, Thiên Thương
+- **vòng Trường Sinh:** Suy
+- **vòng Lộc Tồn:** Bác Sỹ
+
+**Bản chất liên kết:** Chính tinh Tử Vi, Thiên Tướng định hình cung này: Có cấp dưới hùng hậu, bạn bè trong nhóm đều nể; tập thể quy phục mình; Bạn bè giúp đỡ, có người giỏi. Về phụ tinh, Long Trì, Địa Giải, Văn Khúc là điểm tựa, hỗ trợ (Uy vọng, danh tiếng, quý nhân; Hoá giải tai nạn, yên ổn, gỡ hoạ; Âm nhạc, tài năng, linh hoạt, học thuật, sắc sảo). Đồng thời Đà La, Thiên La, Thiên Thương tạo sức ép hoặc rủi ro (Trì trệ, cản trở, dai dẳng, hay kéo dài; Mạng lưới, giam hãm, nổi loạn; Tổn thương, đau đớn, thương tổn). Một số sao trung tính như Hoa Cái khiến cung này nhạy hơn với hoàn cảnh và cách ứng xử. Về bộ sao: vòng Trường Sinh (Suy), vòng Lộc Tồn (Bác Sỹ) — cho biết mức thịnh/suy và vận thời trong cung.
+
+**Điểm mạnh:** Được người phục vụ, dễ tập hợp lực lượng, có uy trong tập thể ; Có nhóm hỗ trợ mạnh ; Long Trì Uy vọng, danh tiếng, quý nhân ; Địa Giải Hoá giải tai nạn, yên ổn, gỡ hoạ ; Văn Khúc Âm nhạc, tài năng, linh hoạt, học thuật, sắc sảo
+
+**Điểm yếu / cần lưu ý:** Người theo hầu có kẻ vì lợi; dễ bị nịnh và mù quáng tin cấp dưới ; Bạn bè dựa vào mình, thiếu độc lập ; Đà La Trì trệ, cản trở, dai dẳng, hay kéo dài ; Thiên La Mạng lưới, giam hãm, nổi loạn ; Thiên Thương Tổn thương, đau đớn, thương tổn
+
+**Gợi ý cho cung Nô Bộc:** Chọn bạn mà chơi, đề phòng lừa đảo.
 
 ### Thiên Di — đi xa, người ngoài, xuất ngoại, môi trường rộng
-**Thiên Lương**: Thiên Lương ở Thiên Di: đi xa gặp quý nhân, hoá giải nạn.
+- **Chính tinh:** Thiên Lương
+- **Phụ tinh đáng chú ý:** Lộc Tồn, Thiên Quang, Nguyệt Đức, Kiếp Sát, Phá Toái, Thiên Giải, Thiên Quý
+- **vòng Trường Sinh:** Bệnh
+- **vòng Thái Tuế:** Quan Phù, Tử Phù
+- **vòng Lộc Tồn:** Lộc Tồn
+
+**Bản chất liên kết:** Chính tinh Thiên Lương định hình cung này: Đi xa gặp quý nhân, hoá giải nạn. Về phụ tinh, Lộc Tồn, Thiên Quang, Nguyệt Đức, Thiên Giải (+1) là điểm tựa, hỗ trợ (Sao tài lộc, tiền bạc, ấm no, mong muốn vật chất được viên mãn; Quang minh, may mắn, thông minh hiểu biết; Phúc đức phụ nữ, tính dịu hiền, hoá giải). Đồng thời Kiếp Sát, Phá Toái tạo sức ép hoặc rủi ro (Tai ương, kiếp nạn, trộm cướp, thất vọng; Bể vỡ, tan vỡ, hao tán). Về bộ sao: vòng Trường Sinh (Bệnh), vòng Thái Tuế (Quan Phù, Tử Phù), vòng Lộc Tồn (Lộc Tồn) — cho biết mức thịnh/suy và vận thời trong cung.
+
+**Điểm mạnh:** Đi xa được cứu giúp ; Lộc Tồn Sao tài lộc, tiền bạc, ấm no, mong muốn vật chất được viên mãn ; Thiên Quang Quang minh, may mắn, thông minh hiểu biết ; Nguyệt Đức Phúc đức phụ nữ, tính dịu hiền, hoá giải
+
+**Điểm yếu / cần lưu ý:** Hay lo xa, sợ đi ; Kiếp Sát Tai ương, kiếp nạn, trộm cướp, thất vọng ; Phá Toái Bể vỡ, tan vỡ, hao tán
+
+**Gợi ý cho cung Thiên Di:** Mở rộng mối quan hệ, cẩn trọng hành trình.
 
 ### Tật Ách — sức khoẻ, bệnh tật, tai nạn, lo âu
-**Thất Sát**: Thất Sát ở Tật Ách: dễ tai nạn, chấn thương, cần bảo vệ.
+- **Chính tinh:** Thất Sát
+- **Phụ tinh đáng chú ý:** Kình Dương, Thiên Khốc, Thiên Hư, Thiên Hình, Thai Phụ, Thiên Sứ
+- **vòng Trường Sinh:** Tử
+- **vòng Thái Tuế:** Tuế Phá
+- **vòng Lộc Tồn:** Phục Binh
+
+**Bản chất liên kết:** Chính tinh Thất Sát định hình cung này: Dễ tai nạn, chấn thương. Về phụ tinh, Thai Phụ là điểm tựa, hỗ trợ (Bảo bọc, dìu dắt, giúp đỡ). Đồng thời Kình Dương, Thiên Khốc, Thiên Hư, Thiên Hình (+1) tạo sức ép hoặc rủi ro (Cương, hung, xung khắc, nhanh và mạnh; Bi ai, tiếng khóc dở, tang lễ; Hư hoại, thành công sớm bại, cô quạnh). Về bộ sao: vòng Trường Sinh (Tử), vòng Thái Tuế (Tuế Phá), vòng Lộc Tồn (Phục Binh) — cho biết mức thịnh/suy và vận thời trong cung.
+
+**Điểm mạnh:** Nếu cẩn thận thì là nguồn rèn luyện ; Thai Phụ Bảo bọc, dìu dắt, giúp đỡ
+
+**Điểm yếu / cần lưu ý:** Nguy cơ thương tích, rủi ro sức khoẻ ; Kình Dương Cương, hung, xung khắc, nhanh và mạnh ; Thiên Khốc Bi ai, tiếng khóc dở, tang lễ ; Thiên Hư Hư hoại, thành công sớm bại, cô quạnh
+
+**Gợi ý cho cung Tật Ách:** Khám sức khoẻ định kỳ, sống điều độ.
+
+### Tài Bạch — tiền bạc, tài chính, thu nhập, kinh doanh
+- **vòng Trường Sinh:** Mộ
+- **vòng Thái Tuế:** Long Đức
+- **vòng Lộc Tồn:** Đại Hao
+
+**Bản chất liên kết:** Cung Tài Bạch không có chính tinh đóng, nội dung chủ yếu do phụ tinh và bộ sao tạo nên. Bản chất cung này vốn Có của, biết kiếm tiền, giữ vốn. Về bộ sao: vòng Trường Sinh (Mộ), vòng Thái Tuế (Long Đức), vòng Lộc Tồn (Đại Hao) — cho biết mức thịnh/suy và vận thời trong cung.
+
+**Điểm mạnh:** Có của, biết kiếm tiền, giữ vốn
+
+**Điểm yếu / cần lưu ý:** Dễ thất thoát, tiêu xài, vay nợ
+
+**Gợi ý cho cung Tài Bạch:** Lập kế hoạch tài chính, tránh đầu cơ.
 
 ### Tử Tức — con cái, hậu vận, sự tiếp nối
-**Liêm Trinh**: Liêm Trinh ở Tử Tức: con cái bản chất cương, cần giáo dục kỹ.
+- **Chính tinh:** Liêm Trinh
+- **Phụ tinh đáng chú ý:** Hóa Kỵ
+- **vòng Trường Sinh:** Tuyệt
+- **vòng Thái Tuế:** Bạch Hổ
+- **vòng Lộc Tồn:** Bệnh Phù
+
+**Bản chất liên kết:** Chính tinh Liêm Trinh định hình cung này: Con cái bản chất cương, cần dạy dỗ kỹ. Đồng thời Hóa Kỵ tạo sức ép hoặc rủi ro (Sao nhận Kỵ; ngăn trở, xáo trộn, hao tổn). Về bộ sao: vòng Trường Sinh (Tuyệt), vòng Thái Tuế (Bạch Hổ), vòng Lộc Tồn (Bệnh Phù) — cho biết mức thịnh/suy và vận thời trong cung.
+
+**Điểm mạnh:** Con mạnh mẽ, có chính kiến
+
+**Điểm yếu / cần lưu ý:** Con khó bảo, cãi lại; dễ xung đột ; Hóa Kỵ Sao nhận Kỵ; ngăn trở, xáo trộn, hao tổn
+
+**Gợi ý cho cung Tử Tức:** Chăm lo giáo dục, chuẩn bị tuổi già.
+
+### Phu Thê — hôn nhân, vợ chồng, tình duyên
+- **Phụ tinh đáng chú ý:** Thiên Việt, Thiên Đức, Thiên Hỷ, Đào Hoa, Ân Quang, Thiên Tài, Thiên Thọ
+- **vòng Trường Sinh:** Thai
+- **vòng Thái Tuế:** Phúc Đức
+- **vòng Lộc Tồn:** Hỷ Thần
+
+**Bản chất liên kết:** Cung Phu Thê không có chính tinh đóng, nội dung chủ yếu do phụ tinh và bộ sao tạo nên. Bản chất cung này vốn Hôn nhân thuận, có người đồng hành. Về phụ tinh, Thiên Việt, Thiên Đức, Thiên Hỷ, Ân Quang (+2) là điểm tựa, hỗ trợ (Bàng quang, quý nhân, người che chở; Ân đức, may mắn, người giúp; Tin mừng, vui vẻ, hôn nhân). Một số sao trung tính như Đào Hoa khiến cung này nhạy hơn với hoàn cảnh và cách ứng xử. Về bộ sao: vòng Trường Sinh (Thai), vòng Thái Tuế (Phúc Đức), vòng Lộc Tồn (Hỷ Thần) — cho biết mức thịnh/suy và vận thời trong cung.
+
+**Điểm mạnh:** Hôn nhân thuận, có người đồng hành ; Thiên Việt Bàng quang, quý nhân, người che chở ; Thiên Đức Ân đức, may mắn, người giúp ; Thiên Hỷ Tin mừng, vui vẻ, hôn nhân
+
+**Điểm yếu / cần lưu ý:** Dễ tranh cãi, bất đồng, đào hoa
+
+**Gợi ý cho cung Phu Thê:** Tôn trọng và lắng nghe đối phương.
 
 ### Huynh Đệ — anh chị em, bạn ruột, đồng môn
-**Phá Quân**: Phá Quân ở Huynh Đệ: anh em phiêu bạt, xa nhau.
+- **Chính tinh:** Phá Quân
+- **Phụ tinh đáng chú ý:** Phượng Các, Giải Thần, Quả Tú, Thiên Diêu, Thiên Y, Văn Xương, Địa Võng, Hóa Khoa
+- **vòng Trường Sinh:** Dưỡng
+- **vòng Thái Tuế:** Điếu Khách
+- **vòng Lộc Tồn:** Phi Liêm
 
-## 4. Tứ Hoá
+**Bản chất liên kết:** Chính tinh Phá Quân định hình cung này: Anh em phiêu bạt, xa nhau. Về phụ tinh, Phượng Các, Giải Thần, Thiên Y, Văn Xương (+1) là điểm tựa, hỗ trợ (Sang trọng, văn chương, danh dự; Hoá giải, gỡ vướng, tai qua nạn khỏi; Y tế, chữa lành, quý nhân, bệnh nhẹ). Đồng thời Quả Tú, Thiên Diêu, Địa Võng tạo sức ép hoặc rủi ro (Quả phụ, cô quả, thiếu hụt tình thân; Lăng loàn, phóng túng, tai tiếng; Bẫy rập, sa lầy, khó thoát). Về bộ sao: vòng Trường Sinh (Dưỡng), vòng Thái Tuế (Điếu Khách), vòng Lộc Tồn (Phi Liêm) — cho biết mức thịnh/suy và vận thời trong cung.
+
+**Điểm mạnh:** Tự lập, ít dựa dẫm ; Phượng Các Sang trọng, văn chương, danh dự ; Giải Thần Hoá giải, gỡ vướng, tai qua nạn khỏi ; Thiên Y Y tế, chữa lành, quý nhân, bệnh nhẹ
+
+**Điểm yếu / cần lưu ý:** Thiếu gắn kết ; Quả Tú Quả phụ, cô quả, thiếu hụt tình thân ; Thiên Diêu Lăng loàn, phóng túng, tai tiếng ; Địa Võng Bẫy rập, sa lầy, khó thoát
+
+**Gợi ý cho cung Huynh Đệ:** Giữ tình thân, phân minh tiền bạc.
+
+## 5. Tứ Hoá
 
 **Hóa Lộc** tại cung **Mệnh** (Hợi): Cung có Hóa Lộc: tài năng và lợi ích được tăng cường.
 **Hóa Quyền** tại cung **Quan Lộc** (Mão): Cung có Hóa Quyền: chủ động, có trách nhiệm, dễ được bổ nhiệm.
 **Hóa Khoa** tại cung **Huynh Đệ** (Tuất): Cung có Hóa Khoa: học vấn, tiếng tốt, quý nhân giúp.
 **Hóa Kỵ** tại cung **Tử Tức** (Thân): Cung có Hóa Kỵ: áp lực, bất an; cần chú ý và hoá giải.
 
-## 5. Cách cục nổi bật
+## 6. Cách cục nổi bật
 
 - **Thân cư Mệnh**: Mệnh Thân đồng cung – bản thân, vận mệnh và hành động gắn chặt với nhau; thành bại do mình.
 - **Khôi Việt tại Mệnh**: Có quý nhân phù trợ, đường học vấn và sự nghiệp thuận lợi.
 - **Hóa Lộc tại Mệnh**: Tài năng, may mắn, có lộc từ chính bản thân.
 - **Đào Hoa tại Phu Thê**: Tình duyên quyến rũ, dễ hấp dẫn người khác; cần chung thuỷ.
 
-## 6. Bản chất, ưu điểm và hạn chế/tiêu cực (phân tích khách quan)
+## 7. Bản chất, ưu điểm và hạn chế/tiêu cực (chi tiết từng sao)
 
 > Phần này cố gắng nói đúng bản chất: nêu cả mặt mạnh lẫn mặt yếu, không nói giảm, không nói tránh. Kết luận cuối vẫn phụ thuộc cách cục và các sao hội chiếu.
 
@@ -330,7 +470,7 @@
 
 **Hạn chế / tiêu cực:** Hạn chế/tiêu cực: Điểm yếu: dễ tự mãn, lệ thuộc quý nhân, lơ là thực tế; khi quá tốt dễ sinh kiêu và mất cảnh giác. Tại cung Phúc Đức, dễ lộ rõ mặt này trong phúc khí, tâm linh, tinh thần, hưởng thụ.
 
-## 7. Tổ hợp sao nổi bật (biến thể khi các sao kết hợp)
+## 8. Tổ hợp sao nổi bật (biến thể khi các sao kết hợp)
 
 > Chỉ nêu các cặp sao có nội dung trong kho tri thức tổ hợp. Vị trí cùng cung / tam hợp / xung chiếu được xác định qua toạ độ cung thực tế.
 
@@ -824,7 +964,7 @@
 
 **Lưu ý:** Ở Mệnh/Quan rất tốt; hỗ trợ cả vận hạn.
 
-## 8. Gợi ý cuộc sống
+## 9. Gợi ý cuộc sống
 
 Cách cục tổng thể quyết định 50% lá số; sao hội chiếu và đắc/hãm quyết định phần còn lại.
 Cung Mệnh + Thân + Cục là bộ ba cốt lõi để luận tính cách và vận mệnh.
