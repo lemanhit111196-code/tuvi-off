@@ -125,6 +125,10 @@ chính tinh + phụ tinh + bộ sao thành Bản chất liên kết / Điểm m�
 Tứ Hoá, các cách cục, chi tiết từng sao, tổ hợp sao nổi bật và gợi ý cuộc sống. Chi tiết:
 [docs/luan-giai-kho-tri-thuc.md](docs/luan-giai-kho-tri-thuc.md).
 
+Phương án phát triển luận giải chuyên nghiệp (mô hình nhân cách 6 trục, đắc/hãm,
+ngữ cảnh hoá, pipeline 7 bước, rubric, lộ trình):
+[docs/phuong-an-luan-giai-chuyen-nghiep.md](docs/phuong-an-luan-giai-chuyen-nghiep.md).
+
 Hoặc dùng trực tiếp SQLite / pandas / DuckDB:
 
 ```python
