@@ -21,6 +21,9 @@ tuvi-off/
 │   ├── luan_giai_knowledge.py        # Tri thức luận giải (hồ sơ cung/cục/tứ hóa/cách)
 │   ├── luan_giai_objective.py        # Luận khách quan 3 chiều: bản chất/ưu/hạn chế
 │   ├── luan_giai_integrated.py       # Luận giải liên kết chính tinh + phụ tinh theo cung
+│   ├── star_logic_engine.py          # Hệ thống logic sao + tương tác sao (tags/rule)
+│   ├── build_star_logic.py           # Build star_logic + star_interaction_logic
+│   ├── query_star_logic.py           # Truy xuất logic sao/tương tác sao
 │   ├── star_combo_knowledge.py       # Tri thức tổ hợp / biến thể sao-gặp-sao
 │   ├── build_luan_giai_knowledge.py  # Build 6 bảng luận giải + JSON
 │   ├── build_star_combo.py           # Build bảng star_combo_analysis (107 tổ hợp)
@@ -45,7 +48,9 @@ tuvi-off/
     ├── luan_giai/
     │   ├── luan_giai_knowledge.json          # Kho tri thức luận giải
     │   ├── star_cung_analysis.json           # Luận khách quan sao x cung (1.308)
-    │   └── star_combo_analysis.json          # Tổ hợp / biến thể sao (107)
+    │   ├── star_combo_analysis.json          # Tổ hợp / biến thể sao (107)
+    │   ├── star_logic.json                   # Hồ sơ logic sao (73)
+    │   └── star_interaction_logic.json       # Logic tương tác sao (2.628)
     └── metadata/
         ├── groups.json               # Số lượng theo từng nhóm
         ├── dimensions.json           # Bảng tra Can, Chi, Cục, 60 hoa giáp, ...

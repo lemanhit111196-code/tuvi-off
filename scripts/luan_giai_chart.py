@@ -52,6 +52,12 @@ from scripts.luan_giai_integrated import (  # noqa: E402
     _join_names,
 )
 from scripts.star_combo_knowledge import relation  # noqa: E402
+from scripts.star_logic_engine import (  # noqa: E402
+    INTERACTION_SPECIFIC,
+    MAIN_KEYS,
+    chart_interactions,
+    pair_logic,
+)
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DB_PATH = os.path.join(ROOT, "data", "tuvi_518400.sqlite")
@@ -328,10 +334,11 @@ def generate(chart_id: int):
               "và các sao hội chiếu.")
     md.append("")
     md += build_objective_analysis(row, menh)
-    md.append("## 8. Tổ hợp sao nổi bật (biến thể khi các sao kết hợp)")
+    md.append("## 8. Tương tác sao (logic luận giải khi các sao kết hợp)")
     md.append("")
-    md.append("> Chỉ nêu các cặp sao có nội dung trong kho tri thức tổ hợp. Vị trí "
-              "cùng cung / tam hợp / xung chiếu được xác định qua toạ độ cung thực tế.")
+    md.append("> Vị trí cùng cung / tam hợp / xung chiếu được xác định qua toạ độ cung thực tế. "
+              "Mỗi cặp có loại tương tác (hợp thành / tăng lực / cân bằng / cộng hung / chế ngự) "
+              "và bản chất–tích cực–tiêu cực của sự kết hợp.")
     md.append("")
     combo_lines = build_combo_analysis(row, menh)
     md += combo_lines if combo_lines else [
@@ -450,54 +457,58 @@ def build_objective_analysis(row, menh):
 # Phân tích tổ hợp / biến thể sao trong lá số.
 # --------------------------------------------------------------------------- #
 def build_combo_analysis(row, menh):
-    """Phát hiện các tổ hợp sao trong lá số và nêu bản chất/tích cực/tiêu cực.
+    """Phát hiện các tổ hợp + TƯƠNG TÁC sao trong lá số bằng hệ thống logic.
 
-    Chỉ nêu các cặp thực sự liên quan trong lá số:
-      - cặp ĐÃ VIẾT TAY (authored) xuất hiện cùng lá số, hoặc
-      - cặp sinh-tự-động có quan hệ trực tiếp (cùng cung / tam hợp / xung chiếu).
+    Chỉ nêu các cặp thực sự liên quan:
+      - cặp có quan hệ trực tiếp (cùng cung / tam hợp / xung chiếu), hoặc
+      - cặp nổi tiếng viết tay trong `INTERACTION_SPECIFIC`.
     """
-    conn = sqlite3.connect(DB_PATH)
-    combo_rows = conn.execute(
-        "SELECT star_a, star_b, star_a_name, star_b_name, category, ban_chat, "
-        "positive, negative, note, source FROM star_combo_analysis").fetchall()
-    conn.close()
-    combo_map = {}
-    for r in combo_rows:
-        combo_map[(r[0], r[1])] = r
+    # 1) Các cặp CHÍNH TINH có quan hệ trực tiếp trong lá số.
+    items_main = chart_interactions(row, menh, only=set(MAIN_KEYS))
+    selected = [it for it in items_main if it["relation"] != "không nối trực tiếp"]
 
-    pos_map = {}
+    # 2) Các cặp NỔI TIẾNG (viết tay) có mặt trong lá số.
+    present = {}
     for col in OBJECTIVE_KEYS:
+        key = star_star_key_from_poscol(col)
         p = get(row, col)
         if p >= 0:
-            pos_map[star_star_key_from_poscol(col)] = p
+            present[key] = p
+    used_pairs = {frozenset((it["star_a"], it["star_b"])) for it in selected}
+    for (a, b), rule in INTERACTION_SPECIFIC.items():
+        if a not in present or b not in present:
+            continue
+        if frozenset((a, b)) in used_pairs:
+            continue
+        from scripts.star_logic_engine import pair_logic
+        it = pair_logic(a, b)
+        it["relation"] = relation(present[a], present[b])
+        it["cung_a"] = (present[a] - menh) % 12
+        it["cung_b"] = (present[b] - menh) % 12
+        selected.append(it)
+        used_pairs.add(frozenset((a, b)))
 
     lines = []
     used = set()
-    keys = list(pos_map.keys())
-    for i in range(len(keys)):
-        for j in range(i + 1, len(keys)):
-            a, b = keys[i], keys[j]
-            for ca, cb in ((a, b), (b, a)):
-                if (ca, cb) not in combo_map or (ca, cb) in used:
-                    continue
-                r = combo_map[(ca, cb)]
-                rel = relation(pos_map[ca], pos_map[cb])
-                # Bỏ cặp sinh tự động không có quan hệ trực tiếp trong lá số.
-                if r[9] == "synth" and rel == "không nối trực tiếp":
-                    continue
-                used.add((ca, cb)); used.add((cb, ca))
-                lines.append(f"### {r[2]} + {r[3]} — [{r[4]}] ({rel})")
-                lines.append("")
-                lines.append(f"**Bản chất:** {r[5]}")
-                lines.append("")
-                lines.append(f"**Tích cực:** {r[6]}")
-                lines.append("")
-                lines.append(f"**Tiêu cực:** {r[7]}")
-                lines.append("")
-                if r[8]:
-                    lines.append(f"**Lưu ý:** {r[8]}")
-                    lines.append("")
-                break
+    for it in selected:
+        pair = frozenset((it["star_a"], it["star_b"]))
+        if pair in used:
+            continue
+        used.add(pair)
+        lines.append(
+            f"### {it['star_a_name']} + {it['star_b_name']} — [{it['category']} | {it['interaction']}] "
+            f"({it['relation']})"
+        )
+        lines.append("")
+        lines.append(f"**Bản chất:** {it['ban_chat']}")
+        lines.append("")
+        lines.append(f"**Tích cực:** {it['positive']}")
+        lines.append("")
+        lines.append(f"**Tiêu cực:** {it['negative']}")
+        lines.append("")
+        if it["note"] and it["note"] != "Nên minh bạch và biết dừng.":
+            lines.append(f"**Lưu ý:** {it['note']}")
+            lines.append("")
     return lines
 
 

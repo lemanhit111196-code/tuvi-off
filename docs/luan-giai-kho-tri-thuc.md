@@ -62,6 +62,30 @@ Mỗi sao × mỗi cung đều có:
 - **Tổng quan liên kết** ở đầu bài nối Mệnh – Thân – Tứ Hoá – trục Quan Lộc /
   Tài Bạch / Phu Thê.
 
+### Hệ thống LOGIC sao và tương tác sao (`star_logic_engine`)
+
+- `star_logic`           : 73 hồ sơ (chính tinh + phụ tinh + tứ hoá + cố định + tuần không).
+  Mỗi sao có `tags` (thẻ ngữ nghĩa: quyền, tài, trí, tình, hành, phúc, hung, tán, biến, quý nhân...),
+  bản chất, tích cực, tiêu cực.
+- `star_interaction_logic`: 2.628 cặp tương tác. Mỗi cặp có `category` + `interaction`
+  (hợp thành / tăng lực / cân bằng / chế ngự / cộng hung / cộng tán / xung khắc / tuỳ ngữ cảnh)
+  và bản chất–tích cực–tiêu cực–lưu ý.
+- Quyết định logic: cặp nổi tiếng (`INTERACTION_SPECIFIC`) → quy tắc theo cặp thẻ
+  (`TAG_INTERACTION_RULES`) → quy tắc dự phòng theo thiên tính cát/hung
+  (`NATURE_RULES`).
+
+```bash
+# Build
+python3 scripts/build_star_logic.py
+
+# Truy xuất
+python3 scripts/query_star_logic.py --star tu_vi
+python3 scripts/query_star_logic.py --star thien_dong --cung 0
+python3 scripts/query_star_logic.py --pair tu_vi thien_tuong
+python3 scripts/query_star_logic.py --list-pair --interaction "cộng hung"
+python3 scripts/query_star_logic.py --chart-id 106920
+```
+
 ### Bảng `star_combo_analysis` — tổ hợp / biến thể sao (hơn 100 dòng)
 
 Khác với `star_cung_analysis` (một sao ở một cung), bảng này mô tả khi **hai sao
@@ -119,9 +143,9 @@ Các phần trong bài luận giải:
 6. **Cách cục nổi bật** — các "cách" được phát hiện tự động.
 7. **Bản chất, ưu điểm và hạn chế/tiêu cực (chi tiết từng sao)** — phân tích
    khách quan từng sao nổi bật, nói thẳng mặt yếu (bảng `star_cung_analysis`).
-8. **Tổ hợp sao nổi bật** — nêu các cặp sao thực sự gặp nhau (cùng cung / tam hợp /
-   xung chiếu) hoặc thuộc nhóm tổ hợp nổi tiếng; mỗi cặp trình bày
-   Bản chất / Tích cực / Tiêu cực / Lưu ý (bảng `star_combo_analysis`).
+8. **Tương tác sao** — nêu các cặp sao thực sự gặp nhau (cùng cung / tam hợp /
+   xung chiếu) hoặc thuộc nhóm tổ hợp nổi tiếng; mỗi cặp trình bày loại tương tác,
+   Bản chất / Tích cực / Tiêu cực / Lưu ý (hệ thống `star_logic_engine`).
 9. **Gợi ý cuộc sống** — khuyến nghị dựa trên lá số.
 
 ## Truy xuất kho tổ hợp sao

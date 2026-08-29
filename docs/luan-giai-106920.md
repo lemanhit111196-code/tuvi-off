@@ -470,263 +470,157 @@ Trên các trục quan trọng: Quan Lộc (Thiên Cơ, Cự Môn): Giỏi chuy�
 
 **Hạn chế / tiêu cực:** Hạn chế/tiêu cực: Điểm yếu: dễ tự mãn, lệ thuộc quý nhân, lơ là thực tế; khi quá tốt dễ sinh kiêu và mất cảnh giác. Tại cung Phúc Đức, dễ lộ rõ mặt này trong phúc khí, tâm linh, tinh thần, hưởng thụ.
 
-## 8. Tổ hợp sao nổi bật (biến thể khi các sao kết hợp)
+## 8. Tương tác sao (logic luận giải khi các sao kết hợp)
 
-> Chỉ nêu các cặp sao có nội dung trong kho tri thức tổ hợp. Vị trí cùng cung / tam hợp / xung chiếu được xác định qua toạ độ cung thực tế.
+> Vị trí cùng cung / tam hợp / xung chiếu được xác định qua toạ độ cung thực tế. Mỗi cặp có loại tương tác (hợp thành / tăng lực / cân bằng / cộng hung / chế ngự) và bản chất–tích cực–tiêu cực của sự kết hợp.
 
-### Tử Vi + Vũ Khúc — [hai cát tinh — hợp nhau, tăng lực] (tam hợp)
+### Tử Vi + Vũ Khúc — [quyền-tài | hợp thành] (tam hợp)
 
-**Bản chất:** Tổ hợp Tử Vi + Vũ Khúc (không ghi rõ quan hệ): bản chất là Tử Vi tự tin, có chính kiến, đứng đắn, nhưng dễ gia trưởng và hơi cô độc. gặp Vũ Khúc kỷ luật, thực dụng, mạnh mẽ, quyết đoán, giữ chữ tín.. Nhìn chung đây là hai cát tinh — hợp nhau, tăng lực.
+**Bản chất:** Tử Vi và Vũ Khúc: quyền lực mở đường cho của cải, của cải nuôi quyền lực.
 
-**Tích cực:** Cả hai đều thuộc nhóm tốt: kết hợp có lợi cho ổn định, công danh, được giúp đỡ, dễ đạt kết quả khi gặp đúng cung.
+**Tích cực:** Tạo đà thăng tiến, làm ăn lớn, được người ủng hộ.
 
-**Tiêu cực:** Vẫn có mặt yếu: dễ tự mãn, chủ quan; nếu hai sao đều đắc có thể sinh kỳ vọng quá cao, thiếu người góp ý sẽ chậm nhận ra sai lầm.
+**Tiêu cực:** Dễ thành tham vọng quyền–lợi; quá đà dễ mất cân bằng đạo đức.
 
-**Lưu ý:** Đánh giá theo đắc/hãm và cung đóng: Tử Vi hợp lãnh đạo, quản lý, hành chính, tổ chức; Vũ Khúc hợp kinh doanh, tài chính, kế toán, kỹ thuật, quản lý..
+### Tử Vi + Liêm Trinh — [quyền-quyền | tranh mạnh] (tam hợp)
 
-### Tử Vi + Liêm Trinh — [hai cát tinh — hợp nhau, tăng lực] (tam hợp)
+**Bản chất:** Tử Vi và Liêm Trinh: hai năng lượng quyền lực gặp nhau.
 
-**Bản chất:** Tổ hợp Tử Vi + Liêm Trinh (không ghi rõ quan hệ): bản chất là Tử Vi tự tin, có chính kiến, đứng đắn, nhưng dễ gia trưởng và hơi cô độc. gặp Liêm Trinh ngay thẳng, bản lĩnh, cầu toàn; dễ cực đoan, khó nhượng bộ.. Nhìn chung đây là hai cát tinh — hợp nhau, tăng lực.
+**Tích cực:** Nếu biết phối hợp tạo liên minh mạnh, dễ cầm đầu.
 
-**Tích cực:** Cả hai đều thuộc nhóm tốt: kết hợp có lợi cho ổn định, công danh, được giúp đỡ, dễ đạt kết quả khi gặp đúng cung.
+**Tiêu cực:** Ganh quyền, cấu kết, đấu đá; mạnh quá thiếu người đối trọng.
 
-**Tiêu cực:** Vẫn có mặt yếu: dễ tự mãn, chủ quan; nếu hai sao đều đắc có thể sinh kỳ vọng quá cao, thiếu người góp ý sẽ chậm nhận ra sai lầm.
+**Lưu ý:** Cần phân công rõ ràng.
 
-**Lưu ý:** Đánh giá theo đắc/hãm và cung đóng: Tử Vi hợp lãnh đạo, quản lý, hành chính, tổ chức; Liêm Trinh hợp pháp luật, công an, quân đội, nghệ thuật, kỹ nghệ..
+### Tử Vi + Thiên Phủ — [quyền-tài | hợp thành] (tam hợp)
 
-### Tử Vi + Thiên Phủ — [quyền-tài] (tam hợp)
+**Bản chất:** Tử Vi (quyền) và Thiên Phủ (tài) tạo 'đế vương có kho': quyền lực đi cùng của cải.
 
-**Bản chất:** Tử Vi và Thiên Phủ đối xứng (thủ Mệnh + thủ Thân hoặc hai cung tam hợp) — biểu trưng đế vương với kho tàng, quyền lực đi cùng của cải.
+**Tích cực:** Được quý nhân, quyền hành, tài sản; lãnh đạo bền vững, làm việc lớn.
 
-**Tích cực:** Được quý nhân, quyền hành và tài sản; có khả năng lãnh đạo bền vững, việc lớn.
+**Tiêu cực:** Tự đắc, gia trưởng; dễ bị tiểu nhân bao vây; quá coi trọng địa vị.
 
-**Tiêu cực:** Tự đắc, gia trưởng; dễ bị tiểu nhân bao vây; quá coi trọng địa vị nên mất lòng.
+**Lưu ý:** Rất mạnh ở Mệnh/Quan/Điền; gặp hung tinh dễ thành 'vua không ngai'.
 
-**Lưu ý:** Đắc địa ở Mệnh/Quan/Điền rất mạnh; gặp hung tinh dễ thành 'vua không ngai'.
+### Tử Vi + Thiên Tướng — [quyền-tướng | hợp thành] (cùng cung)
 
-### Tử Vi + Tham Lang — [quyền-tham] (không nối trực tiếp)
+**Bản chất:** Tử Vi + Thiên Tướng 'Tử Tướng': vua gặp tướng, quyền có người phò.
 
-**Bản chất:** Tử Vi + Tham Lang: 'Tử Tham' — uy quyền gặp dục vọng, đế vương có tham vọng lớn.
+**Tích cực:** Có quyền mà biết lãnh đạo, được người giúp, uy tín vững.
 
-**Tích cực:** Bản lĩnh, có lãnh đạo, thích làm lớn; có thể phát tài phi thường.
+**Tiêu cực:** Dễ ỷ vào cấp dưới; quyền bị giữ hộ nên có thể thiếu trực tiếp.
 
-**Tiêu cực:** Quyền lực dễ thành quyền tham; tham quả sẽ mất uy, dễ bị phản.
+**Lưu ý:** Rất hợp Mệnh/Quan/Điền; cần tự quyết những việc lớn.
 
-**Lưu ý:** Cần có tài đức và người góp ý; gặp cát tinh mới thành quý.
+### Tử Vi + Phá Quân — [bứt phá | xung kích] (xung chiếu)
 
-### Tử Vi + Thiên Tướng — [hai cát tinh — hợp nhau, tăng lực] (cùng cung)
+**Bản chất:** Tử Vi + Phá Quân 'Tử Phá': quyền lực gặp phá cựu lập tân.
 
-**Bản chất:** Tổ hợp Tử Vi + Thiên Tướng (không ghi rõ quan hệ): bản chất là Tử Vi tự tin, có chính kiến, đứng đắn, nhưng dễ gia trưởng và hơi cô độc. gặp Thiên Tướng điềm đạm, biết lắng nghe, có sức thuyết phục.. Nhìn chung đây là hai cát tinh — hợp nhau, tăng lực.
+**Tích cực:** Tầm nhìn lớn, dám thay đổi, tạo bước ngoặt lớn.
 
-**Tích cực:** Cả hai đều thuộc nhóm tốt: kết hợp có lợi cho ổn định, công danh, được giúp đỡ, dễ đạt kết quả khi gặp đúng cung.
+**Tiêu cực:** Phá nhiều hơn xây; rủi ro cao, dễ mất ổn định.
 
-**Tiêu cực:** Vẫn có mặt yếu: dễ tự mãn, chủ quan; nếu hai sao đều đắc có thể sinh kỳ vọng quá cao, thiếu người góp ý sẽ chậm nhận ra sai lầm.
+**Lưu ý:** Cần sự sẵn sàng về tài chính và thời cơ.
 
-**Lưu ý:** Đánh giá theo đắc/hãm và cung đóng: Tử Vi hợp lãnh đạo, quản lý, hành chính, tổ chức; Thiên Tướng hợp quan chức, tư vấn, giáo dục, y tế, ngoại giao..
+### Thiên Cơ + Thiên Đồng — [cát-cát | tăng lực] (tam hợp)
 
-### Tử Vi + Thất Sát — [quyền-quyết] (không nối trực tiếp)
+**Bản chất:** Thiên Cơ (tốt) gặp Thiên Đồng (tốt): hai sao tốt cộng hưởng.
 
-**Bản chất:** Tử Vi + Thất Sát: 'Tử Sát' — quyền uy đi cùng sự quyết đoán, có khí phách chỉ huy.
+**Tích cực:** Dễ được giúp đỡ, ổn định, phát triển theo hướng tích cực.
 
-**Tích cực:** Mạnh mẽ, dám quyết, có sức mạnh chỉ huy; làm lớn trong môi trường kỷ luật.
+**Tiêu cực:** Càng mạnh càng dễ tự mãn, mất cảnh giác.
 
-**Tiêu cực:** Cứng nhắc, độc đoán, dễ xung đột; quyền lực dễ bị lạm dụng.
+**Lưu ý:** Đánh giá theo đắc/hãm và cung đóng.
 
-**Lưu ý:** Rất hợp Quan/Điền; gặp hung tinh dễ thành bạo tàn.
+### Thiên Cơ + Cự Môn — [trí-trí | tăng lực] (cùng cung)
 
-### Tử Vi + Phá Quân — [bứt phá] (xung chiếu)
+**Bản chất:** Thiên Cơ và Cự Môn: hai sao cùng mạnh về tư duy — càng nghĩ càng sâu.
 
-**Bản chất:** Tử Vi + Phá Quân: 'Tử Phá' — quyền lực gặp phá cựu lập tân, dám lật đổ và dựng lại.
+**Tích cực:** Học giỏi, phân tích tốt, nghiên cứu, giải quyết vấn đề giỏi.
 
-**Tích cực:** Có tầm nhìn lớn, dám thay đổi, tạo được bước ngoặt lớn.
+**Tiêu cực:** Nghĩ nhiều mà không hành; càng thông minh càng dễ lo xa, nghi ngờ.
 
-**Tiêu cực:** Phá nhiều hơn xây; rủi ro cao, dễ mất sự ổn định nếu không kiểm soát.
+**Lưu ý:** Cần hành động để căn chỉnh suy nghĩ.
 
-**Lưu ý:** Cần có sự sẵn sàng về tài chính và thời cơ.
+### Thái Dương + Thái Âm — [âm-dương | cân bằng] (cùng cung)
 
-### Lộc Tồn + Tử Vi — [phú-quý] (không nối trực tiếp)
-
-**Bản chất:** Lộc Tồn đi cùng Tử Vi: tài lộc gặp uy quyền, 'vua có kho'.
-
-**Tích cực:** Có tiền, có quyền, có phước; sống dư dả và được quý.
-
-**Tiêu cực:** Càng giàu càng dễ kiêu, bị nịnh và ganh.
-
-**Lưu ý:** Đắc địa rất tốt; hãm cần cẩn thận.
-
-### Kình Dương + Tử Vi — [quyền-xung] (không nối trực tiếp)
-
-**Bản chất:** Kình Dương đi cùng Tử Vi: gai nhọn bên cạnh vua — quyền uy có lực cản.
-
-**Tích cực:** Bản lĩnh, cương trực, dám chống sai.
-
-**Tiêu cực:** Khó gần, hay tranh chấp, dễ mất lòng và gây hiềm khích.
-
-**Lưu ý:** Tử Vi vẫn giữ được quyền nhưng phải đối đầu trắc trở.
-
-### Đà La + Tử Vi — [quyền-trệ] (cùng cung)
-
-**Bản chất:** Đà La đi cùng Tử Vi: sự trì trệ bên vua — quyền nhưng chậm.
-
-**Tích cực:** Kiên trì, không nản, có chính kiến.
-
-**Tiêu cực:** Hay bị cản trở, nợ nần, khó khăn kéo dài.
-
-**Lưu ý:** Phải nhẫn nại và tránh quyết định vội.
-
-### Thiên Cơ + Thiên Đồng — [hai cát tinh — hợp nhau, tăng lực] (tam hợp)
-
-**Bản chất:** Tổ hợp Thiên Cơ + Thiên Đồng (không ghi rõ quan hệ): bản chất là Thiên Cơ thông minh, nhạy bén, thích nghi, sâu sắc, hiếu học. gặp Thiên Đồng hiền lành, dễ gần, có lòng nhân, thích an nhàn.. Nhìn chung đây là hai cát tinh — hợp nhau, tăng lực.
-
-**Tích cực:** Cả hai đều thuộc nhóm tốt: kết hợp có lợi cho ổn định, công danh, được giúp đỡ, dễ đạt kết quả khi gặp đúng cung.
-
-**Tiêu cực:** Vẫn có mặt yếu: dễ tự mãn, chủ quan; nếu hai sao đều đắc có thể sinh kỳ vọng quá cao, thiếu người góp ý sẽ chậm nhận ra sai lầm.
-
-**Lưu ý:** Đánh giá theo đắc/hãm và cung đóng: Thiên Cơ hợp nghề trí óc, nghiên cứu, kỹ thuật, phân tích, tư vấn, báo chí.; Thiên Đồng hợp dịch vụ, y tế, giáo dục, nghệ thuật, công việc chăm sóc..
-
-### Thiên Cơ + Cự Môn — [hai cát tinh — hợp nhau, tăng lực] (cùng cung)
-
-**Bản chất:** Tổ hợp Thiên Cơ + Cự Môn (không ghi rõ quan hệ): bản chất là Thiên Cơ thông minh, nhạy bén, thích nghi, sâu sắc, hiếu học. gặp Cự Môn sắc bén, nói giỏi, hay lo nghĩ, dễ nghi ngờ.. Nhìn chung đây là hai cát tinh — hợp nhau, tăng lực.
-
-**Tích cực:** Cả hai đều thuộc nhóm tốt: kết hợp có lợi cho ổn định, công danh, được giúp đỡ, dễ đạt kết quả khi gặp đúng cung.
-
-**Tiêu cực:** Vẫn có mặt yếu: dễ tự mãn, chủ quan; nếu hai sao đều đắc có thể sinh kỳ vọng quá cao, thiếu người góp ý sẽ chậm nhận ra sai lầm.
-
-**Lưu ý:** Đánh giá theo đắc/hãm và cung đóng: Thiên Cơ hợp nghề trí óc, nghiên cứu, kỹ thuật, phân tích, tư vấn, báo chí.; Cự Môn hợp luật, truyền thông, giáo dục, nghiên cứu, tâm lý..
-
-### Thiên Cơ + Thiên Lương — [trí-phúc] (không nối trực tiếp)
-
-**Bản chất:** Thiên Cơ (trí) + Thiên Lương (phúc) — 'Cơ Lương': tư duy cùng phước, cứu giải.
-
-**Tích cực:** Thông minh, có phước, dễ được cứu giúp; hợp nghề phân tích và tư vấn.
-
-**Tiêu cực:** Lo xa quá, hay băn khoăn; thương người quá mà mệt mình.
-
-**Lưu ý:** Càng đắc càng tốt; gặp hung tinh giảm.
-
-### Thái Dương + Thái Âm — [âm-dương] (cùng cung)
-
-**Bản chất:** Thái Dương + Thái Âm đồng cung hoặc xung chiếu: 'Nhật Nguyệt' — cân bằng sáng/âm, tự tin và tình cảm.
+**Bản chất:** Nhật Nguyệt đối xứng: cân bằng sáng/âm, tự tin và tình cảm.
 
 **Tích cực:** Khôn ngoan, hài hoà, có phúc, giỏi giao tiếp và thấu cảm.
 
-**Tiêu cực:** Hay do dự, tính hai chiều; dễ mệt mỏi vì cân bằng thái quá.
+**Tiêu cực:** Hay do dự, tính hai chiều, dễ mệt mỏi vì cân bằng thái quá.
 
 **Lưu ý:** Đắc địa rất tốt; hãm địa dễ bi quan.
 
-### Thái Dương + Cự Môn — [nhật-cự] (không nối trực tiếp)
+### Thái Dương + Thiên Lương — [phúc-hiệp | tăng lực] (tam hợp)
 
-**Bản chất:** Thái Dương + Cự Môn: 'Nhật Cự' — ánh sáng và bóng tối, sáng suốt nhưng cũng đa nghi.
+**Bản chất:** Nhật Lương: sáng suốt và phước đức, hay giúp đời.
 
-**Tích cực:** Giỏi phát hiện vấn đề, nghề điều tra, luật, báo; có tiếng nói.
-
-**Tiêu cực:** Đa nghi, soi mói, dễ thị phi; cái sáng có thể thành quá đà.
-
-**Lưu ý:** Đắc địa phát huy mạnh; hãm địa dễ cáu và mù quáng.
-
-### Thái Dương + Thiên Lương — [phúc-hiệp] (tam hợp)
-
-**Bản chất:** Thái Dương + Thiên Lương: 'Nhật Lương' — sáng suốt và phước đức, hay giúp đời.
-
-**Tích cực:** Tốt bụng, hào hiệp, có uy tín; hợp nghề y, giáo, từ thiện.
+**Tích cực:** Tốt bụng, hào hiệp, có uy tín; hợp y, giáo, từ thiện.
 
 **Tiêu cực:** Ôm việc quá, mềm yếu, dễ bị lợi dụng lòng tốt.
 
-**Lưu ý:** Gặp cát tinh rất tốt; hãm địa thiếu quyết đoán.
+**Lưu ý:** Gặp cát tinh rất tốt.
 
-### Thái Dương + Thất Sát — [nhiệt-quyết] (không nối trực tiếp)
+### Vũ Khúc + Liêm Trinh — [quyền-tài | hợp thành] (tam hợp)
 
-**Bản chất:** Thái Dương + Thất Sát: 'Nhật Sát' — nhiệt huyết và quyết liệt.
+**Bản chất:** Vũ Khúc và Liêm Trinh: quyền lực mở đường cho của cải, của cải nuôi quyền lực.
 
-**Tích cực:** Mạnh mẽ, quyết đoán, có sức nổ lực lớn; hợp kinh doanh, quân đội.
+**Tích cực:** Tạo đà thăng tiến, làm ăn lớn, được người ủng hộ.
 
-**Tiêu cực:** Nóng nảy, dễ xung đột, bị hiểu lầm.
+**Tiêu cực:** Dễ thành tham vọng quyền–lợi; quá đà dễ mất cân bằng đạo đức.
 
-**Lưu ý:** Đắc địa có uy; hãm địa dễ thành hung hiểm.
+### Vũ Khúc + Thiên Phủ — [vũ-phủ | hợp thành] (cùng cung)
 
-### Vũ Khúc + Liêm Trinh — [hai cát tinh — hợp nhau, tăng lực] (tam hợp)
+**Bản chất:** Vũ Phủ: kỷ luật tài chính gặp kho tàng, làm ra của và giữ của.
 
-**Bản chất:** Tổ hợp Vũ Khúc + Liêm Trinh (không ghi rõ quan hệ): bản chất là Vũ Khúc kỷ luật, thực dụng, mạnh mẽ, quyết đoán, giữ chữ tín. gặp Liêm Trinh ngay thẳng, bản lĩnh, cầu toàn; dễ cực đoan, khó nhượng bộ.. Nhìn chung đây là hai cát tinh — hợp nhau, tăng lực.
+**Tích cực:** Biết kiếm tiền, quản lý tốt, có nền tảng tài chính vững.
 
-**Tích cực:** Cả hai đều thuộc nhóm tốt: kết hợp có lợi cho ổn định, công danh, được giúp đỡ, dễ đạt kết quả khi gặp đúng cung.
+**Tiêu cực:** Nặng vật chất, keo kiệt; có của dễ sinh lo xa quá.
 
-**Tiêu cực:** Vẫn có mặt yếu: dễ tự mãn, chủ quan; nếu hai sao đều đắc có thể sinh kỳ vọng quá cao, thiếu người góp ý sẽ chậm nhận ra sai lầm.
+**Lưu ý:** Rất hợp Tài/Điền; gặp Hóa Lộc càng mạnh.
 
-**Lưu ý:** Đánh giá theo đắc/hãm và cung đóng: Vũ Khúc hợp kinh doanh, tài chính, kế toán, kỹ thuật, quản lý.; Liêm Trinh hợp pháp luật, công an, quân đội, nghệ thuật, kỹ nghệ..
+### Vũ Khúc + Thiên Tướng — [quyền-tài | hợp thành] (tam hợp)
 
-### Vũ Khúc + Thiên Phủ — [hai cát tinh — hợp nhau, tăng lực] (cùng cung)
+**Bản chất:** Vũ Khúc và Thiên Tướng: quyền lực mở đường cho của cải, của cải nuôi quyền lực.
 
-**Bản chất:** Tổ hợp Vũ Khúc + Thiên Phủ (không ghi rõ quan hệ): bản chất là Vũ Khúc kỷ luật, thực dụng, mạnh mẽ, quyết đoán, giữ chữ tín. gặp Thiên Phủ trầm ổn, thực tế, cẩn trọng, có gu thẩm mỹ.. Nhìn chung đây là hai cát tinh — hợp nhau, tăng lực.
+**Tích cực:** Tạo đà thăng tiến, làm ăn lớn, được người ủng hộ.
 
-**Tích cực:** Cả hai đều thuộc nhóm tốt: kết hợp có lợi cho ổn định, công danh, được giúp đỡ, dễ đạt kết quả khi gặp đúng cung.
+**Tiêu cực:** Dễ thành tham vọng quyền–lợi; quá đà dễ mất cân bằng đạo đức.
 
-**Tiêu cực:** Vẫn có mặt yếu: dễ tự mãn, chủ quan; nếu hai sao đều đắc có thể sinh kỳ vọng quá cao, thiếu người góp ý sẽ chậm nhận ra sai lầm.
+### Vũ Khúc + Thất Sát — [tài-hành | hợp thành] (xung chiếu)
 
-**Lưu ý:** Đánh giá theo đắc/hãm và cung đóng: Vũ Khúc hợp kinh doanh, tài chính, kế toán, kỹ thuật, quản lý.; Thiên Phủ hợp ngân hàng, tài chính, quản lý, tổ chức, bất động sản..
+**Bản chất:** Vũ Khúc và Thất Sát: tài năng đi cùng hành động.
 
-### Vũ Khúc + Tham Lang — [tài-dục] (không nối trực tiếp)
+**Tích cực:** Làm ra tiền và dám hành động; kinh doanh, thực chiến tốt.
 
-**Bản chất:** Vũ Khúc (tài) + Tham Lang (dục) đồng cung: 'Vũ Tham' — tham vọng tiền và quyền, tài năng thương mại.
+**Tiêu cực:** Vì tiền mà liều, nóng vội; mất của khi mất bình tĩnh.
 
-**Tích cực:** Nhanh nhạy, biết kiếm tiền, có tài đầu tư; thành công ở kinh doanh.
+**Lưu ý:** Cần kế hoạch trước khi xung trận.
 
-**Tiêu cực:** Những lúc ham hố: tham lam, dùng thủ đoạn, làm giàu nhanh bại cũng nhanh.
+### Thiên Đồng + Cự Môn — [khẩu-tài | cân bằng] (tam hợp)
 
-**Lưu ý:** Đắc địa ở Thìn/Tuất/Sửu/Mùi càng mạnh; có Hỏa/Linh tăng nghị lực.
+**Bản chất:** Đồng Cự: hoà nhã gặp khẩu tài phản biện.
 
-### Vũ Khúc + Thiên Tướng — [hai cát tinh — hợp nhau, tăng lực] (tam hợp)
-
-**Bản chất:** Tổ hợp Vũ Khúc + Thiên Tướng (không ghi rõ quan hệ): bản chất là Vũ Khúc kỷ luật, thực dụng, mạnh mẽ, quyết đoán, giữ chữ tín. gặp Thiên Tướng điềm đạm, biết lắng nghe, có sức thuyết phục.. Nhìn chung đây là hai cát tinh — hợp nhau, tăng lực.
-
-**Tích cực:** Cả hai đều thuộc nhóm tốt: kết hợp có lợi cho ổn định, công danh, được giúp đỡ, dễ đạt kết quả khi gặp đúng cung.
-
-**Tiêu cực:** Vẫn có mặt yếu: dễ tự mãn, chủ quan; nếu hai sao đều đắc có thể sinh kỳ vọng quá cao, thiếu người góp ý sẽ chậm nhận ra sai lầm.
-
-**Lưu ý:** Đánh giá theo đắc/hãm và cung đóng: Vũ Khúc hợp kinh doanh, tài chính, kế toán, kỹ thuật, quản lý.; Thiên Tướng hợp quan chức, tư vấn, giáo dục, y tế, ngoại giao..
-
-### Vũ Khúc + Thất Sát — [hai cát tinh — hợp nhau, tăng lực] (xung chiếu)
-
-**Bản chất:** Tổ hợp Vũ Khúc + Thất Sát (không ghi rõ quan hệ): bản chất là Vũ Khúc kỷ luật, thực dụng, mạnh mẽ, quyết đoán, giữ chữ tín. gặp Thất Sát bản lĩnh, độc lập, cương quyết, hơi nóng.. Nhìn chung đây là hai cát tinh — hợp nhau, tăng lực.
-
-**Tích cực:** Cả hai đều thuộc nhóm tốt: kết hợp có lợi cho ổn định, công danh, được giúp đỡ, dễ đạt kết quả khi gặp đúng cung.
-
-**Tiêu cực:** Vẫn có mặt yếu: dễ tự mãn, chủ quan; nếu hai sao đều đắc có thể sinh kỳ vọng quá cao, thiếu người góp ý sẽ chậm nhận ra sai lầm.
-
-**Lưu ý:** Đánh giá theo đắc/hãm và cung đóng: Vũ Khúc hợp kinh doanh, tài chính, kế toán, kỹ thuật, quản lý.; Thất Sát hợp quân, công an, kinh doanh, nghề mạo hiểm, chỉ huy..
-
-### Thiên Đồng + Thái Âm — [an-nhàn] (không nối trực tiếp)
-
-**Bản chất:** Thiên Đồng + Thái Âm: 'Đồng Âm' — hiền hoà và trăng thanh, sống tình cảm.
-
-**Tích cực:** Dễ chịu, có phúc, được yêu mến; hợp nghệ thuật, chăm sóc.
-
-**Tiêu cực:** Mềm yếu, hay buồn, thiếu tham vọng; dễ bị tình cảm chi phối.
-
-**Lưu ý:** Đắc địa rất tốt; gặp hung tinh dễ tiêu cực.
-
-### Thiên Đồng + Cự Môn — [khẩu-tài] (tam hợp)
-
-**Bản chất:** Thiên Đồng + Cự Môn: 'Đồng Cự' — hoà nhã gặp khẩu tài phản biện.
-
-**Tích cực:** Khéo giao tiếp, học nhanh; có khả năng giảng dạy, tranh luận.
+**Tích cực:** Khéo giao tiếp, học nhanh, giỏi giảng dạy, tranh luận.
 
 **Tiêu cực:** Thích biện luận, hay cãi vặt; tính tình thay đổi.
 
 **Lưu ý:** Hãm địa dễ 'miệng quạ'; cần cẩn ngôn.
 
-### Thiên Đồng + Thiên Lương — [hai cát tinh — hợp nhau, tăng lực] (xung chiếu)
+### Thiên Đồng + Thiên Lương — [đồng-lương | hợp thành] (xung chiếu)
 
-**Bản chất:** Tổ hợp Thiên Đồng + Thiên Lương (không ghi rõ quan hệ): bản chất là Thiên Đồng hiền lành, dễ gần, có lòng nhân, thích an nhàn. gặp Thiên Lương hiền từ, bao dung, có đạo đức, thích giúp người.. Nhìn chung đây là hai cát tinh — hợp nhau, tăng lực.
+**Bản chất:** Đồng Lương: hiền lành gặp phước đức, một bộ sao phúc và thông minh.
 
-**Tích cực:** Cả hai đều thuộc nhóm tốt: kết hợp có lợi cho ổn định, công danh, được giúp đỡ, dễ đạt kết quả khi gặp đúng cung.
+**Tích cực:** Sống nhân hậu, dễ gặp quý nhân, học hỏi tốt, cuộc sống dễ an.
 
-**Tiêu cực:** Vẫn có mặt yếu: dễ tự mãn, chủ quan; nếu hai sao đều đắc có thể sinh kỳ vọng quá cao, thiếu người góp ý sẽ chậm nhận ra sai lầm.
+**Tiêu cực:** Hiền quá dễ bị lợi dụng, thiếu tham vọng, khó quyết lớn.
 
-**Lưu ý:** Đánh giá theo đắc/hãm và cung đóng: Thiên Đồng hợp dịch vụ, y tế, giáo dục, nghệ thuật, công việc chăm sóc.; Thiên Lương hợp giáo dục, y, luật, tư pháp, từ thiện..
+**Lưu ý:** Đắc địa ở Mệnh/Phúc rất tốt.
 
-### Liêm Trinh + Thiên Phủ — [liêm-phủ] (tam hợp)
+### Liêm Trinh + Thiên Phủ — [liêm-phủ | hợp thành] (tam hợp)
 
-**Bản chất:** Liêm Trinh + Thiên Phủ: 'Liêm Phủ' — cương có nơi chứa.
+**Bản chất:** Liêm Phủ: cương có nơi chứa.
 
 **Tích cực:** Có chức quyền và tài sản, biết dữ.
 
@@ -734,39 +628,197 @@ Trên các trục quan trọng: Quan Lộc (Thiên Cơ, Cự Môn): Giỏi chuy�
 
 **Lưu ý:** Đắc địa rất tốt ở Tài/Quan.
 
-### Liêm Trinh + Tham Lang — [hai cát tinh — hợp nhau, tăng lực] (xung chiếu)
+### Liêm Trinh + Tham Lang — [quyền-tài | hợp thành] (xung chiếu)
 
-**Bản chất:** Tổ hợp Liêm Trinh + Tham Lang (không ghi rõ quan hệ): bản chất là Liêm Trinh ngay thẳng, bản lĩnh, cầu toàn; dễ cực đoan, khó nhượng bộ. gặp Tham Lang thông minh, nhạy cảm, ham muốn mạnh, dễ cám dỗ.. Nhìn chung đây là hai cát tinh — hợp nhau, tăng lực.
+**Bản chất:** Liêm Trinh và Tham Lang: quyền lực mở đường cho của cải, của cải nuôi quyền lực.
 
-**Tích cực:** Cả hai đều thuộc nhóm tốt: kết hợp có lợi cho ổn định, công danh, được giúp đỡ, dễ đạt kết quả khi gặp đúng cung.
+**Tích cực:** Tạo đà thăng tiến, làm ăn lớn, được người ủng hộ.
 
-**Tiêu cực:** Vẫn có mặt yếu: dễ tự mãn, chủ quan; nếu hai sao đều đắc có thể sinh kỳ vọng quá cao, thiếu người góp ý sẽ chậm nhận ra sai lầm.
+**Tiêu cực:** Dễ thành tham vọng quyền–lợi; quá đà dễ mất cân bằng đạo đức.
 
-**Lưu ý:** Đánh giá theo đắc/hãm và cung đóng: Liêm Trinh hợp pháp luật, công an, quân đội, nghệ thuật, kỹ nghệ.; Tham Lang hợp thương mại, giải trí, nghệ thuật, thẩm mỹ, đầu tư..
+### Liêm Trinh + Thiên Tướng — [liêm-tướng | hợp thành] (tam hợp)
 
-### Liêm Trinh + Thiên Tướng — [liêm-tướng] (tam hợp)
+**Bản chất:** Liêm Tướng: hàm hạnh, văn võ.
 
-**Bản chất:** Liêm Trinh + Thiên Tướng: 'Liêm Tướng'.
-
-**Tích cực:** Hàm hạnh, văn võ, có sức thuyết phục.
+**Tích cực:** Có sức thuyết phục, kỷ luật tốt.
 
 **Tiêu cực:** Khó tính, kén người.
 
-**Lưu ý:** Kết hợp rất tốt ở Mệnh/Quan; gặp văn tinh và quý nhân càng phát huy.
+**Lưu ý:** Kết hợp rất tốt ở Mệnh/Quan.
 
-### Liêm Trinh + Thất Sát — [kim-khí] (không nối trực tiếp)
+### Thiên Phủ + Thiên Tướng — [an định | tăng lực] (tam hợp)
 
-**Bản chất:** Liêm Trinh + Thất Sát: 'Liêm Sát' — sự cứng và mạnh, đồng cung hoặc tam hợp.
+**Bản chất:** Phủ (kho) + Tướng (bảo hộ): một bộ sao ổn định, có cơ nghiệp.
 
-**Tích cực:** Có khí phách, dám đối đầu, làm nghề quân, pháp, công an.
+**Tích cực:** Ổn định, biết tổ chức, được người giúp đỡ, hợp quản lý tài chính.
+
+**Tiêu cực:** Thụ động, thích an toàn, thiếu quyết đoán khi cần đổi mới.
+
+**Lưu ý:** Rất hợp Điền/Quan/Tài.
+
+### Thiên Phủ + Thất Sát — [tài-hành | hợp thành] (xung chiếu)
+
+**Bản chất:** Thiên Phủ và Thất Sát: tài năng đi cùng hành động.
+
+**Tích cực:** Làm ra tiền và dám hành động; kinh doanh, thực chiến tốt.
+
+**Tiêu cực:** Vì tiền mà liều, nóng vội; mất của khi mất bình tĩnh.
+
+**Lưu ý:** Cần kế hoạch trước khi xung trận.
+
+### Thái Âm + Thiên Lương — [tĩnh-phúc | tăng lực] (tam hợp)
+
+**Bản chất:** Âm Lương: nội tâm và phước, sống nhẹ nhàng.
+
+**Tích cực:** Hiền, có đức, vận may; thích cái đẹp và tâm linh.
+
+**Tiêu cực:** Thụ động, hay buồn, lo xa, thiếu quyết đoán.
+
+**Lưu ý:** Đắc địa sống an yên.
+
+### Tham Lang + Thất Sát — [tình-hành | mâu thuẫn] (tam hợp)
+
+**Bản chất:** Tham Lang và Thất Sát: cảm xúc và hành động kéo ngược nhau.
+
+**Tích cực:** Nếu cân bằng sẽ vừa thấu cảm vừa quyết đoán.
+
+**Tiêu cực:** Dễ nóng giận vì cảm xúc, hành động thiếu suy nghĩ, hoặc ngược lại ủy mị.
+
+**Lưu ý:** Cần tạm dừng trước khi quyết định lớn.
+
+### Tham Lang + Phá Quân — [tình-hành | mâu thuẫn] (tam hợp)
+
+**Bản chất:** Tham Lang và Phá Quân: cảm xúc và hành động kéo ngược nhau.
+
+**Tích cực:** Nếu cân bằng sẽ vừa thấu cảm vừa quyết đoán.
+
+**Tiêu cực:** Dễ nóng giận vì cảm xúc, hành động thiếu suy nghĩ, hoặc ngược lại ủy mị.
+
+**Lưu ý:** Cần tạm dừng trước khi quyết định lớn.
+
+### Thiên Tướng + Phá Quân — [đổi-tướng | cân bằng] (xung chiếu)
+
+**Bản chất:** Phá Tướng: đổi mới có người bảo.
+
+**Tích cực:** Bứt phá nhưng có nền tảng, dễ phát triển.
+
+**Tiêu cực:** Thất thường, hay thay đổi kế hoạch.
+
+**Lưu ý:** Cần người cố vấn ổn định.
+
+### Thất Sát + Phá Quân — [phá-hại | xung kích] (tam hợp)
+
+**Bản chất:** Sát Phá: mạnh và phá, đầy nhiệt.
+
+**Tích cực:** Làm lớn, dám thay đổi, táo bạo.
+
+**Tiêu cực:** Bạo, dễ nổ, phá tiền và phá quan hệ.
+
+**Lưu ý:** Phải có kỷ luật thép.
+
+### Vũ Khúc + Tham Lang — [tài-dục | hợp thành] (không nối trực tiếp)
+
+**Bản chất:** Vũ Khúc (kỷ luật tài chính) + Tham Lang (dục/tài) tạo 'Vũ Tham': tham vọng tiền quyền.
+
+**Tích cực:** Nhanh nhạy, biết kiếm tiền, giỏi đầu tư, thành công ở kinh doanh.
+
+**Tiêu cực:** Ham hố dẫn tới tham lam, thủ đoạn; giàu nhanh bại cũng nhanh.
+
+**Lưu ý:** Đắc địa ở Thìn/Tuất/Sửu/Mùi mạnh; có Hỏa/Linh tăng nghị lực.
+
+### Tử Vi + Tham Lang — [quyền-tham | hợp thành] (không nối trực tiếp)
+
+**Bản chất:** Tử Vi + Tham Lang 'Tử Tham': đế vương có tham vọng lớn.
+
+**Tích cực:** Bản lĩnh, có lãnh đạo, làm lớn, có thể phát tài phi thường.
+
+**Tiêu cực:** Quyền lực dễ thành quyền tham; tham quá mất uy, dễ bị phản.
+
+**Lưu ý:** Cần tài đức và người góp ý; gặp cát tinh mới thành quý.
+
+### Tử Vi + Thất Sát — [quyền-quyết | tăng lực] (không nối trực tiếp)
+
+**Bản chất:** Tử Vi + Thất Sát 'Tử Sát': quyền uy đi cùng quyết đoán, khí phách chỉ huy.
+
+**Tích cực:** Mạnh mẽ, dám quyết, có sức chỉ huy, làm lớn trong môi trường kỷ luật.
+
+**Tiêu cực:** Cứng nhắc, độc đoán, dễ xung đột; quyền lực dễ bị lạm dụng.
+
+**Lưu ý:** Rất hợp Quan/Điền; gặp hung tinh dễ thành bạo tàn.
+
+### Thiên Cơ + Thiên Lương — [trí-phúc | hợp thành] (không nối trực tiếp)
+
+**Bản chất:** Cơ Lương: tư duy cùng phước, cứu giải.
+
+**Tích cực:** Thông minh, có phước, dễ được cứu giúp; hợp phân tích, tư vấn.
+
+**Tiêu cực:** Lo xa, băn khoăn; thương người quá mà mệt mình.
+
+**Lưu ý:** Càng đắc càng tốt.
+
+### Thiên Đồng + Thái Âm — [an-nhàn | tăng lực] (không nối trực tiếp)
+
+**Bản chất:** Đồng Âm: hiền hoà và trăng thanh, sống tình cảm.
+
+**Tích cực:** Dễ chịu, có phúc, được yêu mến; hợp nghệ thuật, chăm sóc.
+
+**Tiêu cực:** Mềm yếu, hay buồn, thiếu tham vọng; dễ bị tình cảm chi phối.
+
+**Lưu ý:** Đắc địa rất tốt.
+
+### Thiên Lương + Cự Môn — [luận-thuyết | hợp thành] (không nối trực tiếp)
+
+**Bản chất:** Lương Cự: phước gặp miệng, trí tuệ và hoạ giải.
+
+**Tích cực:** Thông minh, dạy đời, nói có sức thuyết phục, hay hoá giải thị phi.
+
+**Tiêu cực:** Hay diễn giải, khinh người; tự cho mình đúng, dễ mất lòng.
+
+**Lưu ý:** Ở Mệnh/Thân phát huy rất tốt.
+
+### Thái Dương + Cự Môn — [nhật-cự | cân bằng] (không nối trực tiếp)
+
+**Bản chất:** Nhật Cự: ánh sáng và bóng tối, sáng suốt nhưng đa nghi.
+
+**Tích cực:** Giỏi phát hiện vấn đề; hợp điều tra, luật, báo.
+
+**Tiêu cực:** Đa nghi, soi mói, dễ thị phi; cái sáng có thể thành quá đà.
+
+**Lưu ý:** Đắc địa phát huy mạnh.
+
+### Thái Âm + Cự Môn — [ẩn-miệng | cân bằng] (không nối trực tiếp)
+
+**Bản chất:** Âm Cự: sâu kín gặp miệng lưỡi, nhạy cảm và phản biện.
+
+**Tích cực:** Sâu sắc, trí nhớ tốt; hợp nghiên cứu, tâm lý.
+
+**Tiêu cực:** Hay bực bội, khó tính, giận dỗi; miệng lưỡi dễ đâm chọc.
+
+**Lưu ý:** Hãm địa rất xấu; cần kiềm chế cảm xúc.
+
+### Thái Dương + Thất Sát — [nhiệt-quyết | tăng lực] (không nối trực tiếp)
+
+**Bản chất:** Nhật Sát: nhiệt huyết và quyết liệt.
+
+**Tích cực:** Mạnh mẽ, quyết đoán, sức nổ lực lớn; hợp kinh doanh, quân đội.
+
+**Tiêu cực:** Nóng nảy, dễ xung đột, bị hiểu lầm.
+
+**Lưu ý:** Đắc địa có uy; hãm địa dễ thành hung hiểm.
+
+### Liêm Trinh + Thất Sát — [kim-khí | tăng lực] (không nối trực tiếp)
+
+**Bản chất:** Liêm Sát: sự cứng và mạnh, đồng cung hoặc tam hợp.
+
+**Tích cực:** Có khí phách, dám đối đầu; làm nghề quân, pháp, công an.
 
 **Tiêu cực:** Cực đoan, hung hãn; dễ tự hại và gây nạn.
 
-**Lưu ý:** Rất cần cát tinh; không hợp chỗ yếu.
+**Lưu ý:** Rất cần cát tinh.
 
-### Liêm Trinh + Phá Quân — [quyết-liệt] (không nối trực tiếp)
+### Liêm Trinh + Phá Quân — [quyết-liệt | xung kích] (không nối trực tiếp)
 
-**Bản chất:** Liêm Trinh + Phá Quân: 'Liêm Phá' — sự cứng rắn và phá phách.
+**Bản chất:** Liêm Phá: sự cứng rắn và phá phách.
 
 **Tích cực:** Mạnh, dám đổi mới; quyết liệt trong nghề.
 
@@ -774,27 +826,17 @@ Trên các trục quan trọng: Quan Lộc (Thiên Cơ, Cự Môn): Giỏi chuy�
 
 **Lưu ý:** Cần sự tự chủ rất cao.
 
-### Thiên Phủ + Thiên Tướng — [an định] (tam hợp)
+### Lộc Tồn + Tử Vi — [phú-quý | tăng lực] (không nối trực tiếp)
 
-**Bản chất:** Thiên Phủ (kho) + Thiên Tướng (bảo hộ): bộ 'Phủ Tướng' — an định, có cơ nghiệp.
+**Bản chất:** Lộc Tồn đi cùng Tử Vi: tài lộc gặp uy quyền, 'vua có kho'.
 
-**Tích cực:** Ổn định, biết tổ chức, được người giúp đỡ; hợp quản lý tài chính.
+**Tích cực:** Có tiền, có quyền, có phước; sống dư dả và được quý.
 
-**Tiêu cực:** Thụ động, thích an toàn; thiếu quyết đoán khi cần đổi mới.
+**Tiêu cực:** Càng giàu càng dễ kiêu, bị nịnh và ganh.
 
-**Lưu ý:** Rất hợp Điền/Quan/Tài; gặp Lộc Tồn tăng của, gặp hung tinh giảm lực.
+**Lưu ý:** Đắc địa rất tốt.
 
-### Thiên Phủ + Thất Sát — [hai cát tinh — hợp nhau, tăng lực] (xung chiếu)
-
-**Bản chất:** Tổ hợp Thiên Phủ + Thất Sát (không ghi rõ quan hệ): bản chất là Thiên Phủ trầm ổn, thực tế, cẩn trọng, có gu thẩm mỹ. gặp Thất Sát bản lĩnh, độc lập, cương quyết, hơi nóng.. Nhìn chung đây là hai cát tinh — hợp nhau, tăng lực.
-
-**Tích cực:** Cả hai đều thuộc nhóm tốt: kết hợp có lợi cho ổn định, công danh, được giúp đỡ, dễ đạt kết quả khi gặp đúng cung.
-
-**Tiêu cực:** Vẫn có mặt yếu: dễ tự mãn, chủ quan; nếu hai sao đều đắc có thể sinh kỳ vọng quá cao, thiếu người góp ý sẽ chậm nhận ra sai lầm.
-
-**Lưu ý:** Đánh giá theo đắc/hãm và cung đóng: Thiên Phủ hợp ngân hàng, tài chính, quản lý, tổ chức, bất động sản.; Thất Sát hợp quân, công an, kinh doanh, nghề mạo hiểm, chỉ huy..
-
-### Lộc Tồn + Thiên Phủ — [đại-phú] (không nối trực tiếp)
+### Lộc Tồn + Thiên Phủ — [đại-phú | tăng lực] (không nối trực tiếp)
 
 **Bản chất:** Lộc Tồn + Thiên Phủ: lộc đi cùng kho tàng — cực thuận tài.
 
@@ -804,47 +846,7 @@ Trên các trục quan trọng: Quan Lộc (Thiên Cơ, Cự Môn): Giỏi chuy�
 
 **Lưu ý:** Rất tốt ở Tài/Điền.
 
-### Thái Âm + Cự Môn — [ẩn-miệng] (không nối trực tiếp)
-
-**Bản chất:** Thái Âm + Cự Môn: 'Âm Cự' — sâu kín gặp miệng lưỡi, nhạy cảm và phản biện.
-
-**Tích cực:** Sâu sắc, có trí nhớ tốt, hợp nghề nghiên cứu, tâm lý.
-
-**Tiêu cực:** Hay bực bội, khó tính, dễ giận dỗi; miệng lưỡi dễ đâm chọc.
-
-**Lưu ý:** Hãm địa rất xấu; cần kiềm chế cảm xúc.
-
-### Thái Âm + Thiên Lương — [tĩnh-phúc] (tam hợp)
-
-**Bản chất:** Thái Âm + Thiên Lương: 'Âm Lương' — nội tâm và phước, sống nhẹ nhàng.
-
-**Tích cực:** Hiền, có đức, vận may; thích cái đẹp và tâm linh.
-
-**Tiêu cực:** Thụ động, hay buồn, dễ lo xa; thiếu quyết đoán.
-
-**Lưu ý:** Đắc địa có mọi điều tốt để sống an yên.
-
-### Tham Lang + Thất Sát — [hai cát tinh — hợp nhau, tăng lực] (tam hợp)
-
-**Bản chất:** Tổ hợp Tham Lang + Thất Sát (không ghi rõ quan hệ): bản chất là Tham Lang thông minh, nhạy cảm, ham muốn mạnh, dễ cám dỗ. gặp Thất Sát bản lĩnh, độc lập, cương quyết, hơi nóng.. Nhìn chung đây là hai cát tinh — hợp nhau, tăng lực.
-
-**Tích cực:** Cả hai đều thuộc nhóm tốt: kết hợp có lợi cho ổn định, công danh, được giúp đỡ, dễ đạt kết quả khi gặp đúng cung.
-
-**Tiêu cực:** Vẫn có mặt yếu: dễ tự mãn, chủ quan; nếu hai sao đều đắc có thể sinh kỳ vọng quá cao, thiếu người góp ý sẽ chậm nhận ra sai lầm.
-
-**Lưu ý:** Đánh giá theo đắc/hãm và cung đóng: Tham Lang hợp thương mại, giải trí, nghệ thuật, thẩm mỹ, đầu tư.; Thất Sát hợp quân, công an, kinh doanh, nghề mạo hiểm, chỉ huy..
-
-### Tham Lang + Phá Quân — [hai cát tinh — hợp nhau, tăng lực] (tam hợp)
-
-**Bản chất:** Tổ hợp Tham Lang + Phá Quân (không ghi rõ quan hệ): bản chất là Tham Lang thông minh, nhạy cảm, ham muốn mạnh, dễ cám dỗ. gặp Phá Quân táo bạo, mạo hiểm, thích đổi mới, không thích gò bó.. Nhìn chung đây là hai cát tinh — hợp nhau, tăng lực.
-
-**Tích cực:** Cả hai đều thuộc nhóm tốt: kết hợp có lợi cho ổn định, công danh, được giúp đỡ, dễ đạt kết quả khi gặp đúng cung.
-
-**Tiêu cực:** Vẫn có mặt yếu: dễ tự mãn, chủ quan; nếu hai sao đều đắc có thể sinh kỳ vọng quá cao, thiếu người góp ý sẽ chậm nhận ra sai lầm.
-
-**Lưu ý:** Đánh giá theo đắc/hãm và cung đóng: Tham Lang hợp thương mại, giải trí, nghệ thuật, thẩm mỹ, đầu tư.; Phá Quân hợp khởi nghiệp, xây dựng, thương mại, nghề mới..
-
-### Lộc Tồn + Tham Lang — [phú-tham] (không nối trực tiếp)
+### Lộc Tồn + Tham Lang — [phú-tham | cân bằng] (không nối trực tiếp)
 
 **Bản chất:** Lộc Tồn + Tham Lang: lộc gặp dục — tiền nhiều nhưng ham.
 
@@ -854,19 +856,39 @@ Trên các trục quan trọng: Quan Lộc (Thiên Cơ, Cự Môn): Giỏi chuy�
 
 **Lưu ý:** Cần kiểm soát ham muốn.
 
-### Hỏa Tinh + Tham Lang — [hoả-tham] (không nối trực tiếp)
+### Kình Dương + Tử Vi — [quyền-xung | chế ngự] (không nối trực tiếp)
 
-**Bản chất:** Hỏa Tinh + Tham Lang: 'Hỏa Tham' — lửa đốt lòng tham, nghị lực bốc cao.
+**Bản chất:** Kình Dương đi cùng Tử Vi: gai nhọn bên cạnh vua — quyền uy có lực cản.
 
-**Tích cực:** Đắc địa: nhiệt huyết, ham làm ăn, có thành công lớn.
+**Tích cực:** Bản lĩnh, cương trực, dám chống sai.
 
-**Tiêu cực:** Hãm địa: nóng, thô, dễ mất bình tĩnh và gây rủi ro.
+**Tiêu cực:** Khó gần, hay tranh chấp, dễ mất lòng, gây hiềm khích.
 
-**Lưu ý:** Cách này mạnh ở Mệnh/Quan; phải có lý trí.
+**Lưu ý:** Tử Vi vẫn giữ quyền nhưng phải đối đầu trắc trở.
 
-### Linh Tinh + Tham Lang — [linh-tham] (không nối trực tiếp)
+### Đà La + Tử Vi — [quyền-trệ | chế ngự] (cùng cung)
 
-**Bản chất:** Linh Tinh + Tham Lang: 'Linh Tham' — ma thuật, sắc sảo.
+**Bản chất:** Đà La đi cùng Tử Vi: sự trì trệ bên vua — quyền nhưng chậm.
+
+**Tích cực:** Kiên trì, không nản, có chính kiến.
+
+**Tiêu cực:** Hay bị cản trở, nợ nần, khó khăn kéo dài.
+
+**Lưu ý:** Phải nhẫn nại và tránh quyết định vội.
+
+### Hỏa Tinh + Tham Lang — [hoả-tham | tăng lực] (không nối trực tiếp)
+
+**Bản chất:** Hỏa Tham: lửa đốt lòng tham, nghị lực bốc cao.
+
+**Tích cực:** Đắc địa: nhiệt huyết, ham làm ăn, thành công lớn.
+
+**Tiêu cực:** Hãm địa: nóng, thô, dễ mất bình tĩnh, gây rủi ro.
+
+**Lưu ý:** Mạnh ở Mệnh/Quan; phải có lý trí.
+
+### Linh Tinh + Tham Lang — [linh-tham | tăng lực] (không nối trực tiếp)
+
+**Bản chất:** Linh Tham: ma thuật, sắc sảo.
 
 **Tích cực:** Thông minh, có duyên nghệ thuật, quyết đoán.
 
@@ -874,17 +896,27 @@ Trên các trục quan trọng: Quan Lộc (Thiên Cơ, Cự Môn): Giỏi chuy�
 
 **Lưu ý:** Đắc địa thành tài; hãm thành hung.
 
-### Thiên Lương + Cự Môn — [luận-thuyết] (không nối trực tiếp)
+### Văn Xương + Văn Khúc — [văn-học | hợp thành] (xung chiếu)
 
-**Bản chất:** Thiên Lương + Cự Môn: 'Lương Cự' — phước gặp miệng, trí tuệ và hoạ giải.
+**Bản chất:** Xương Khúc: học vấn, văn chương.
 
-**Tích cực:** Thông minh, dạy đời; nói năng có sức thuyết phục, hay hoá giải thị phi.
+**Tích cực:** Thông minh, học giỏi, có tài văn chương; công danh tốt.
 
-**Tiêu cực:** Hay diễn giải, khinh người; tự cho mình đúng, dễ mất lòng.
+**Tiêu cực:** Dễ tài hoa mà phận, hay lo xa; gặp Hóa Kỵ dễ rối trí.
 
-**Lưu ý:** Ở Mệnh hoặc Thân rất phát huy.
+**Lưu ý:** Ở Mệnh/Quan/Tài rất thuận.
 
-### Cự Môn + Thất Sát — [khẩu-xung] (không nối trực tiếp)
+### Thiên Khôi + Thiên Việt — [quý-nhân | hợp thành] (không nối trực tiếp)
+
+**Bản chất:** Khôi Việt: bộ quý nhân, đỡ vấp ngã.
+
+**Tích cực:** Gặp quý nhân, học hành, công danh thuận; tai qua nạn khỏi.
+
+**Tiêu cực:** Phụ thuộc người khác; dễ được giúp mà thiếu tự lực.
+
+**Lưu ý:** Ở Mệnh/Quan rất tốt.
+
+### Cự Môn + Thất Sát — [khẩu-xung | cân bằng] (không nối trực tiếp)
 
 **Bản chất:** Cự Môn + Thất Sát: miệng sắc gặp tay mạnh.
 
@@ -894,7 +926,7 @@ Trên các trục quan trọng: Quan Lộc (Thiên Cơ, Cự Môn): Giỏi chuy�
 
 **Lưu ý:** Cần rèn kiềm chế.
 
-### Cự Môn + Kình Dương — [thị-phi] (không nối trực tiếp)
+### Cự Môn + Kình Dương — [thị-phi | chế ngự] (không nối trực tiếp)
 
 **Bản chất:** Cự Môn + Kình Dương: lưỡi dao cạnh miệng.
 
@@ -904,7 +936,7 @@ Trên các trục quan trọng: Quan Lộc (Thiên Cơ, Cự Môn): Giỏi chuy�
 
 **Lưu ý:** Rất cần cẩn ngôn.
 
-### Cự Môn + Đà La — [cản-trở] (không nối trực tiếp)
+### Cự Môn + Đà La — [cản-trở | chế ngự] (không nối trực tiếp)
 
 **Bản chất:** Cự Môn + Đà La: miệng và sự rào cản.
 
@@ -914,9 +946,9 @@ Trên các trục quan trọng: Quan Lộc (Thiên Cơ, Cự Môn): Giỏi chuy�
 
 **Lưu ý:** Cần tránh dây dưa.
 
-### Thất Sát + Thiên Tướng — [oai phong] (không nối trực tiếp)
+### Thất Sát + Thiên Tướng — [oai-phong | tăng lực] (không nối trực tiếp)
 
-**Bản chất:** Thất Sát + Thiên Tướng: bộ 'Sát Tướng' — mạnh có chỉ huy.
+**Bản chất:** Sát Tướng: mạnh có chỉ huy.
 
 **Tích cực:** Có khả năng lãnh đạo kỷ luật, quân đội, công an.
 
@@ -924,45 +956,25 @@ Trên các trục quan trọng: Quan Lộc (Thiên Cơ, Cự Môn): Giỏi chuy�
 
 **Lưu ý:** Kết hợp tốt ở Quan/Điền.
 
-### Phá Quân + Thiên Tướng — [đổi-tướng] (xung chiếu)
+### Tử Vi + Thiên Cơ — [tử-cơ | hợp thành] (không nối trực tiếp)
 
-**Bản chất:** Phá Quân + Thiên Tướng: 'Phá Tướng' — đổi mới có người bảo.
+**Bản chất:** Tử Cơ: quyền lực đi cùng mưu lược, vua có quân sư.
 
-**Tích cực:** Bứt phá nhưng có nền tảng, dễ phát triển.
+**Tích cực:** Có tầm nhìn, biết dùng người, làm việc có kế hoạch.
 
-**Tiêu cực:** Vẫn còn thất thường, hay thay đổi kế hoạch.
+**Tiêu cực:** Mưu nhiều tâm lý nhiều; quyền dễ bị trí tuệ phản tác dụng nếu gian xảo.
 
-**Lưu ý:** Cần người cố vấn ổn định.
+**Lưu ý:** Hợp Mệnh/Quan; nên minh bạch trong toan tính.
 
-### Thất Sát + Phá Quân — [phá-hại] (tam hợp)
+### Tử Vi + Thái Dương — [tử-dương | tăng lực] (không nối trực tiếp)
 
-**Bản chất:** Thất Sát + Phá Quân: 'Sát Phá' — mạnh và phá, đầy nhiệt.
+**Bản chất:** Tử Dương: đế tinh gặp mặt trời, quyền uy thêm hào quang.
 
-**Tích cực:** Làm lớn, dám thay đổi, táo bạo.
+**Tích cực:** Có uy, hào phóng, dễ thành danh, được nhiều người chú ý.
 
-**Tiêu cực:** Bạo, dễ nổ, phá tiền và phá quan hệ.
+**Tiêu cực:** Quá nổi bật dễ sinh kiêu, bị ganh, phô trương.
 
-**Lưu ý:** Phải có kỷ luật thép.
-
-### Văn Xương + Văn Khúc — [văn-học] (xung chiếu)
-
-**Bản chất:** Văn Xương + Văn Khúc: 'Xương Khúc' — học vấn, văn chương
-
-**Tích cực:** Thông minh, học giỏi, có tài văn chương; đường công danh tốt.
-
-**Tiêu cực:** Dễ tài hoa mà phận, hay lo xa; gặp hoá kỵ dễ rối trí.
-
-**Lưu ý:** Ở Mệnh/Quan/Tài rất thuận; gặp hoàn cảnh thuận lợi phát huy cao.
-
-### Thiên Khôi + Thiên Việt — [quý-nhân] (không nối trực tiếp)
-
-**Bản chất:** Thiên Khôi + Thiên Việt: 'Khôi Việt' — bộ quý nhân, đỡ vấp ngã.
-
-**Tích cực:** Gặp quý nhân, học hành, công danh thuận; tai qua nạn khỏi.
-
-**Tiêu cực:** Phụ thuộc người khác; dễ được giúp mà thiếu tự lực.
-
-**Lưu ý:** Ở Mệnh/Quan rất tốt; hỗ trợ cả vận hạn.
+**Lưu ý:** Phải giữ lòng khiêm và sự thực tế.
 
 ## 9. Gợi ý cuộc sống
 
