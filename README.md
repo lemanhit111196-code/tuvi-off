@@ -20,7 +20,10 @@ tuvi-off/
 │   ├── query_star_knowledge.py       # Truy xuất + ghép kiến thức vào lá số
 │   ├── luan_giai_knowledge.py        # Tri thức luận giải (hồ sơ cung/cục/tứ hóa/cách)
 │   ├── luan_giai_objective.py        # Luận khách quan 3 chiều: bản chất/ưu/hạn chế
+│   ├── star_combo_knowledge.py       # Tri thức tổ hợp / biến thể sao-gặp-sao
 │   ├── build_luan_giai_knowledge.py  # Build 6 bảng luận giải + JSON
+│   ├── build_star_combo.py           # Build bảng star_combo_analysis (107 tổ hợp)
+│   ├── query_star_combo.py           # Truy xuất kho tổ hợp sao
 │   └── luan_giai_chart.py            # Sinh bài luận giải "giống AI" cho 1 chart
 ├── docs/
 │   ├── nguon-algorithm.md            # Thuật toán, nguồn, trường phái
@@ -39,7 +42,9 @@ tuvi-off/
     │   ├── star_cung_knowledge.json          # Kiến thức sao ở cung (1.308 dòng)
     │   └── star_cung_knowledge.csv.gz
     ├── luan_giai/
-    │   └── luan_giai_knowledge.json          # Kho tri thức luận giải
+    │   ├── luan_giai_knowledge.json          # Kho tri thức luận giải
+    │   ├── star_cung_analysis.json           # Luận khách quan sao x cung (1.308)
+    │   └── star_combo_analysis.json          # Tổ hợp / biến thể sao (107)
     └── metadata/
         ├── groups.json               # Số lượng theo từng nhóm
         ├── dimensions.json           # Bảng tra Can, Chi, Cục, 60 hoa giáp, ...
@@ -98,9 +103,15 @@ Bảng `star_cung_knowledge` nằm ngay trong `data/tuvi_518400.sqlite`, có ch�
 ## Luận giải giống AI
 
 ```bash
-# Build kho tri thức luận giải (5 bảng: main_star_profile, cung_profile,
-# cuc_profile, tua_hoa_profile, cach_rules)
+# Build kho tri thức luận giải (6 bảng: main_star_profile, cung_profile,
+# cuc_profile, tua_hoa_profile, cach_rules, star_cung_analysis)
 python3 scripts/build_luan_giai_knowledge.py
+
+# Build kho tổ hợp / biến thể sao (107 tổ hợp: 40 viết tay + 67 sinh tự động)
+python3 scripts/build_star_combo.py
+
+# Truy xuất một tổ hợp nổi bật
+python3 scripts/query_star_combo.py --combo tu_vi thien_phu
 
 # Sinh bài luận giải tự động cho một lá số
 python3 scripts/luan_giai_chart.py --chart-id 106920 --format markdown
@@ -108,7 +119,8 @@ python3 scripts/luan_giai_chart.py --chart-id 106920 --format json
 ```
 
 Bài luận giải gồm: thông tin lá số, Mệnh/Thân, 12 cung có chính tinh thủ,
-Tứ Hoá, các cách cục được phát hiện và gợi ý cuộc sống. Chi tiết:
+Tứ Hoá, các cách cục, phân tích khách quan từng sao (bản chất, tích cực,
+hạn chế), tổ hợp sao nổi bật khi các sao gặp nhau và gợi ý cuộc sống. Chi tiết:
 [docs/luan-giai-kho-tri-thuc.md](docs/luan-giai-kho-tri-thuc.md).
 
 Hoặc dùng trực tiếp SQLite / pandas / DuckDB:

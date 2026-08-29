@@ -41,6 +41,7 @@ from scripts.luan_giai_knowledge import (  # noqa: E402
     TUA_HOA_PROFILE,
 )
 from scripts.luan_giai_objective import objective_for_star_cung  # noqa: E402
+from scripts.star_combo_knowledge import relation  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DB_PATH = os.path.join(ROOT, "data", "tuvi_518400.sqlite")
@@ -310,7 +311,16 @@ def generate(chart_id: int):
               "và các sao hội chiếu.")
     md.append("")
     md += build_objective_analysis(row, menh)
-    md.append("## 7. Gợi ý cuộc sống")
+    md.append("## 7. Tổ hợp sao nổi bật (biến thể khi các sao kết hợp)")
+    md.append("")
+    md.append("> Chỉ nêu các cặp sao có nội dung trong kho tri thức tổ hợp. Vị trí "
+              "cùng cung / tam hợp / xung chiếu được xác định qua toạ độ cung thực tế.")
+    md.append("")
+    combo_lines = build_combo_analysis(row, menh)
+    md += combo_lines if combo_lines else [
+        "- Không phát hiện tổ hợp sao nổi bật nào trong các cặp đã ghi nhận."
+    ]
+    md.append("## 8. Gợi ý cuộc sống")
     md.append("")
     md += build_advice(row, menh, than)
     md.append("")
@@ -334,6 +344,7 @@ def generate(chart_id: int):
             "tu_hoa": build_hoa(row, menh),
             "cach": build_cach(row, menh, than, sk),
             "objective": build_objective_analysis(row, menh),
+            "combos": build_combo_analysis(row, menh),
             "advice": build_advice(row, menh, than),
         },
     }
@@ -413,6 +424,61 @@ def build_objective_analysis(row, menh):
         if obj["comparison"]:
             lines.append(f"**Đánh giá cân bằng:** {obj['comparison']}")
             lines.append("")
+    return lines
+
+
+# --------------------------------------------------------------------------- #
+# Phân tích tổ hợp / biến thể sao trong lá số.
+# --------------------------------------------------------------------------- #
+def build_combo_analysis(row, menh):
+    """Phát hiện các tổ hợp sao trong lá số và nêu bản chất/tích cực/tiêu cực.
+
+    Chỉ nêu các cặp thực sự liên quan trong lá số:
+      - cặp ĐÃ VIẾT TAY (authored) xuất hiện cùng lá số, hoặc
+      - cặp sinh-tự-động có quan hệ trực tiếp (cùng cung / tam hợp / xung chiếu).
+    """
+    conn = sqlite3.connect(DB_PATH)
+    combo_rows = conn.execute(
+        "SELECT star_a, star_b, star_a_name, star_b_name, category, ban_chat, "
+        "positive, negative, note, source FROM star_combo_analysis").fetchall()
+    conn.close()
+    combo_map = {}
+    for r in combo_rows:
+        combo_map[(r[0], r[1])] = r
+
+    pos_map = {}
+    for col in OBJECTIVE_KEYS:
+        p = get(row, col)
+        if p >= 0:
+            pos_map[star_star_key_from_poscol(col)] = p
+
+    lines = []
+    used = set()
+    keys = list(pos_map.keys())
+    for i in range(len(keys)):
+        for j in range(i + 1, len(keys)):
+            a, b = keys[i], keys[j]
+            for ca, cb in ((a, b), (b, a)):
+                if (ca, cb) not in combo_map or (ca, cb) in used:
+                    continue
+                r = combo_map[(ca, cb)]
+                rel = relation(pos_map[ca], pos_map[cb])
+                # Bỏ cặp sinh tự động không có quan hệ trực tiếp trong lá số.
+                if r[9] == "synth" and rel == "không nối trực tiếp":
+                    continue
+                used.add((ca, cb)); used.add((cb, ca))
+                lines.append(f"### {r[2]} + {r[3]} — [{r[4]}] ({rel})")
+                lines.append("")
+                lines.append(f"**Bản chất:** {r[5]}")
+                lines.append("")
+                lines.append(f"**Tích cực:** {r[6]}")
+                lines.append("")
+                lines.append(f"**Tiêu cực:** {r[7]}")
+                lines.append("")
+                if r[8]:
+                    lines.append(f"**Lưu ý:** {r[8]}")
+                    lines.append("")
+                break
     return lines
 
 

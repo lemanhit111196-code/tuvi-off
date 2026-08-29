@@ -48,17 +48,43 @@ Mỗi sao × mỗi cung đều có:
 14 chính tinh có nội dung viết tay cho đủ 168 tổ hợp (14 × 12). Các phụ tinh
 được sinh từ ẩn nghĩa sao + tính chất cung.
 
+### Bảng `star_combo_analysis` — tổ hợp / biến thể sao (hơn 100 dòng)
+
+Khác với `star_cung_analysis` (một sao ở một cung), bảng này mô tả khi **hai sao
+gặp nhau** trong cùng lá số: cùng cung, tam hợp hoặc xung chiếu.
+
+Mỗi tổ hợp có:
+
+- `ban_chat` : bản chất thật của tổ hợp (trung tính).
+- `positive` : mặt tích cực rõ, có cơ sở.
+- `negative` : mặt hạn chế / tiêu cực rõ, không nói giảm, không nói tránh.
+- `note`     : điều kiện đắc/hãm, cung đóng làm tổ hợp mạnh/yếu.
+- `category` : loại tổ hợp (quyền-tài, tài-dục, tăng-lực, đào-hoa, ...).
+- `source`   : `authored` (viết tay) hay `synth` (sinh từ hồ sơ hai sao).
+
+Kho có:
+
+- **40+ tổ hợp viết tay**: Tử Phủ, Phủ Tướng, Vũ Tham, Tử Tham, Tử Sát, Tử Phá,
+  Nhật Nguyệt, Cơ Lương, Đồng Âm, Đồng Cự, Nhật Cự, Nhật Lương, Liêm Sát,
+  Lộc/Kình/Đà/Hỏa/Linh/Văn Xương/Khúc/Khôi/Việt/Đào/Hoa-Lộc/Hóa-Kỵ, ...
+- **67 cặp sinh tự động** bổ sung đủ 91 cặp 14 chính tinh để kho không bị thiếu
+  cặp nào khi tra cứu.
+
 ## Cách build
 
 ```bash
 python3 scripts/build_luan_giai_knowledge.py
+python3 scripts/build_star_combo.py
 ```
 
 Ghi ra:
 
 - `data/luan_giai/luan_giai_knowledge.json`
+- `data/luan_giai/star_cung_analysis.json`
+- `data/luan_giai/star_combo_analysis.json`
 - các bảng `main_star_profile`, `cung_profile`, `cuc_profile`,
-  `tua_hoa_profile`, `cach_rules` trong `data/tuvi_518400.sqlite`.
+  `tua_hoa_profile`, `cach_rules`, `star_cung_analysis`, `star_combo_analysis`
+  trong `data/tuvi_518400.sqlite`.
 
 ## Sinh bài luận giải tự động
 
@@ -77,7 +103,23 @@ Các phần trong bài luận giải:
 5. **Cách cục nổi bật** — các "cách" được phát hiện tự động.
 6. **Bản chất, ưu điểm và hạn chế/tiêu cực** — phân tích khách quan từng sao nổi bật,
    nói thẳng mặt yếu (dựa trên bảng `star_cung_analysis`).
-7. **Gợi ý cuộc sống** — khuyến nghị dựa trên lá số.
+7. **Tổ hợp sao nổi bật** — nêu các cặp sao thực sự gặp nhau (cùng cung / tam hợp /
+   xung chiếu) hoặc thuộc nhóm tổ hợp nổi tiếng; mỗi cặp trình bày
+   Bản chất / Tích cực / Tiêu cực / Lưu ý (dựa trên bảng `star_combo_analysis`).
+8. **Gợi ý cuộc sống** — khuyến nghị dựa trên lá số.
+
+## Truy xuất kho tổ hợp sao
+
+```bash
+# Xem một tổ hợp
+python3 scripts/query_star_combo.py --combo tu_vi thien_phu
+
+# Tìm kiếm
+python3 scripts/query_star_combo.py --search "Đào Hoa"
+
+# Liệt kê toàn bộ
+python3 scripts/query_star_combo.py --list
+```
 
 ## Truy vấn trực tiếp
 
