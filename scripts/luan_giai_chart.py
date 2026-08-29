@@ -40,6 +40,7 @@ from scripts.luan_giai_knowledge import (  # noqa: E402
     STAR_PROFILE,
     TUA_HOA_PROFILE,
 )
+from scripts.luan_giai_objective import objective_for_star_cung  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DB_PATH = os.path.join(ROOT, "data", "tuvi_518400.sqlite")
@@ -302,7 +303,14 @@ def generate(chart_id: int):
     md.append("")
     md += build_cach(row, menh, than, sk)
     md.append("")
-    md.append("## 6. Gợi ý cuộc sống")
+    md.append("## 6. Bản chất, ưu điểm và hạn chế/tiêu cực (phân tích khách quan)")
+    md.append("")
+    md.append("> Phần này cố gắng nói đúng bản chất: nêu cả mặt mạnh lẫn mặt yếu, "
+              "không nói giảm, không nói tránh. Kết luận cuối vẫn phụ thuộc cách cục "
+              "và các sao hội chiếu.")
+    md.append("")
+    md += build_objective_analysis(row, menh)
+    md.append("## 7. Gợi ý cuộc sống")
     md.append("")
     md += build_advice(row, menh, than)
     md.append("")
@@ -325,6 +333,7 @@ def generate(chart_id: int):
             "cung_profile": build_cung_profile(row, menh, sk),
             "tu_hoa": build_hoa(row, menh),
             "cach": build_cach(row, menh, than, sk),
+            "objective": build_objective_analysis(row, menh),
             "advice": build_advice(row, menh, than),
         },
     }
@@ -343,6 +352,68 @@ def main():
         print(text)
     else:
         print(text)
+
+
+# --------------------------------------------------------------------------- #
+# Phân tích khách quan 3 chiều (Bản chất / Ưu điểm / Hạn chế - tiêu cực).
+# --------------------------------------------------------------------------- #
+OBJECTIVE_KEYS = [
+    "pos_tu_vi", "pos_thien_co", "pos_thai_duong", "pos_vu_khuc",
+    "pos_thien_dong", "pos_liem_trinh", "pos_thien_phu", "pos_thai_am",
+    "pos_tham_lang", "pos_cu_mon", "pos_thien_tuong", "pos_thien_luong",
+    "pos_that_sat", "pos_pha_quan",
+    "pos_loc_ton", "pos_hoa_tinh", "pos_linh_tinh",
+    "pos_van_xuong", "pos_van_khuc", "pos_kinh_duong", "pos_da_la",
+    "pos_thien_khoi", "pos_thien_viet", "pos_dao_hoa",
+    "pos_an_quang", "pos_thien_quy", "pos_tam_thai", "pos_bat_toa",
+]
+_OBJECTIVE_NAMES = {
+    "pos_tu_vi": "Tử Vi", "pos_thien_co": "Thiên Cơ", "pos_thai_duong": "Thái Dương",
+    "pos_vu_khuc": "Vũ Khúc", "pos_thien_dong": "Thiên Đồng", "pos_liem_trinh": "Liêm Trinh",
+    "pos_thien_phu": "Thiên Phủ", "pos_thai_am": "Thái Âm", "pos_tham_lang": "Tham Lang",
+    "pos_cu_mon": "Cự Môn", "pos_thien_tuong": "Thiên Tướng", "pos_thien_luong": "Thiên Lương",
+    "pos_that_sat": "Thất Sát", "pos_pha_quan": "Phá Quân", "pos_loc_ton": "Lộc Tồn",
+    "pos_hoa_tinh": "Hỏa Tinh", "pos_linh_tinh": "Linh Tinh",
+    "pos_van_xuong": "Văn Xương", "pos_van_khuc": "Văn Khúc",
+    "pos_kinh_duong": "Kình Dương", "pos_da_la": "Đà La",
+    "pos_thien_khoi": "Thiên Khôi", "pos_thien_viet": "Thiên Việt",
+    "pos_dao_hoa": "Đào Hoa", "pos_an_quang": "Ân Quang", "pos_thien_quy": "Thiên Quý",
+    "pos_tam_thai": "Tam Thai", "pos_bat_toa": "Bát Tọa",
+}
+
+
+def star_star_key_from_poscol(col):
+    return col[4:] if col.startswith("pos_") else col
+
+
+def build_objective_analysis(row, menh):
+    """Liệt kê các sao nổi bật trong lá số, mỗi sao nêu Bản chất/Ưu/Hạn chế."""
+    lines = []
+    seen = set()
+    for col in OBJECTIVE_KEYS:
+        k = star_star_key_from_poscol(col)
+        if k in seen:
+            continue
+        pos = get(row, col)
+        if pos < 0:
+            continue
+        cung_index = (pos - menh) % 12
+        cung_name = CUNG_NAMES[cung_index]
+        star_name = _OBJECTIVE_NAMES.get(col, k)
+        obj = objective_for_star_cung(k, cung_index)
+        seen.add(k)
+        lines.append(f"### {star_name} — cung {cung_name} ({CHI_NAMES[pos]})")
+        lines.append("")
+        lines.append(f"**Bản chất:** {obj['ban_chat']}")
+        lines.append("")
+        lines.append(f"**Tích cực:** {obj['positive']}")
+        lines.append("")
+        lines.append(f"**Hạn chế / tiêu cực:** {obj['negative']}")
+        lines.append("")
+        if obj["comparison"]:
+            lines.append(f"**Đánh giá cân bằng:** {obj['comparison']}")
+            lines.append("")
+    return lines
 
 
 if __name__ == "__main__":

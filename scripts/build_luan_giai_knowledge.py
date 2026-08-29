@@ -36,6 +36,8 @@ from scripts.luan_giai_knowledge import (  # noqa: E402
     STAR_PROFILE,
     TUA_HOA_PROFILE,
 )
+from scripts.luan_giai_objective import objective_for_star_cung  # noqa: E402
+from scripts.star_knowledge_data import STAR_META  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_DIR = os.path.join(ROOT, "data")
@@ -123,10 +125,35 @@ def cach_rows():
     return out
 
 
+def star_cung_analysis_rows():
+    """Tạo bảng phân tích khách quan 3 chiều cho mọi sao × mọi cung."""
+    out = []
+    for star_key in STAR_META:
+        for cung_index in range(12):
+            obj = objective_for_star_cung(star_key, cung_index)
+            meta = STAR_META[star_key]
+            out.append({
+                "star_key": star_key,
+                "star_name": meta["name"],
+                "star_group": meta["group"],
+                "nature": meta["nature"],
+                "cung_index": cung_index,
+                "cung_name": CUNG_PROFILE[cung_index][0],
+                "ban_chat": obj["ban_chat"],
+                "positive": obj["positive"],
+                "negative": obj["negative"],
+                "comparison": obj["comparison"],
+            })
+    return out
+
+
 def write_json(rows_map):
     os.makedirs(LUAN_DIR, exist_ok=True)
     with open(JSON_PATH, "w", encoding="utf-8") as f:
         json.dump(rows_map, f, ensure_ascii=False, indent=2)
+    # Bảng phân tích 3 chiều (lớn hơn một chút) ghi riêng.
+    with open(os.path.join(LUAN_DIR, "star_cung_analysis.json"), "w", encoding="utf-8") as f:
+        json.dump(rows_map["star_cung_analysis"], f, ensure_ascii=False, indent=2)
 
 
 def create_table(conn, name, columns):
@@ -183,6 +210,23 @@ def write_sqlite(rows_map):
         cur.execute("INSERT INTO cach_rules VALUES (?,?,?,?,?)",
                     (r["ma"], r["ten"], r["muc"], r["dieu_kien"], r["mo_ta"]))
 
+    create_table(conn, "star_cung_analysis", """
+        id INTEGER PRIMARY KEY, star_key TEXT, star_name TEXT, star_group TEXT,
+        nature TEXT, cung_index INTEGER, cung_name TEXT,
+        ban_chat TEXT, positive TEXT, negative TEXT, comparison TEXT
+    """)
+    for i, r in enumerate(rows_map["star_cung_analysis"]):
+        cur.execute(
+            "INSERT INTO star_cung_analysis "
+            "(star_key,star_name,star_group,nature,cung_index,cung_name,ban_chat,positive,negative,comparison) "
+            "VALUES (?,?,?,?,?,?,?,?,?,?)",
+            (r["star_key"], r["star_name"], r["star_group"], r["nature"],
+             r["cung_index"], r["cung_name"], r["ban_chat"], r["positive"],
+             r["negative"], r["comparison"]),
+        )
+    cur.execute("CREATE INDEX IF NOT EXISTS idx_sca_key ON star_cung_analysis(star_key)")
+    cur.execute("CREATE INDEX IF NOT EXISTS idx_sca_cung ON star_cung_analysis(cung_index)")
+    cur.execute("CREATE INDEX IF NOT EXISTS idx_sca_key_cung ON star_cung_analysis(star_key, cung_index)")
     conn.commit()
     conn.close()
 
@@ -194,12 +238,13 @@ def main():
         "cuc_profile": cuc_rows(),
         "tua_hoa_profile": hoa_rows(),
         "cach_rules": cach_rows(),
+        "star_cung_analysis": star_cung_analysis_rows(),
     }
     write_json(rows_map)
     write_sqlite(rows_map)
     print("Đã tạo kho tri thức luận giải:")
     print(f"  JSON  : {JSON_PATH}")
-    print(f"  SQLite: {DB_PATH} (bảng main_star_profile, cung_profile, cuc_profile, tua_hoa_profile, cach_rules)")
+    print(f"  SQLite: {DB_PATH} (bảng main_star_profile, cung_profile, cuc_profile, tua_hoa_profile, cach_rules, star_cung_analysis)")
     for k, v in rows_map.items():
         print(f"  - {k}: {len(v)} dòng")
 

@@ -19,7 +19,8 @@ tuvi-off/
 │   ├── build_star_knowledge.py       # Build bảng star_cung_knowledge
 │   ├── query_star_knowledge.py       # Truy xuất + ghép kiến thức vào lá số
 │   ├── luan_giai_knowledge.py        # Tri thức luận giải (hồ sơ cung/cục/tứ hóa/cách)
-│   ├── build_luan_giai_knowledge.py  # Build 5 bảng luận giải + JSON
+│   ├── luan_giai_objective.py        # Luận khách quan 3 chiều: bản chất/ưu/hạn chế
+│   ├── build_luan_giai_knowledge.py  # Build 6 bảng luận giải + JSON
 │   └── luan_giai_chart.py            # Sinh bài luận giải "giống AI" cho 1 chart
 ├── docs/
 │   ├── nguon-algorithm.md            # Thuật toán, nguồn, trường phái

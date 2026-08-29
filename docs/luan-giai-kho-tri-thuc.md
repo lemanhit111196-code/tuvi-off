@@ -36,6 +36,18 @@ Mô tả Hóa Lộc / Quyền / Khoa / Kỵ.
   Hỏa/Linh tại Mệnh, Đào Hoa tại Phu Thê, Vũ Tham đồng cung, ...).
 - 8 quy tắc luận tổng hợp.
 
+### Bảng `star_cung_analysis` (1.308 dòng) — luận khách quan 3 chiều
+
+Mỗi sao × mỗi cung đều có:
+
+- `ban_chat` : bản chất, trung tính.
+- `positive` : mặt tích cực thật.
+- `negative` : mặt hạn chế / tiêu cực thật (không nói giảm, không nói tránh).
+- `comparison` : đánh giá cân bằng.
+
+14 chính tinh có nội dung viết tay cho đủ 168 tổ hợp (14 × 12). Các phụ tinh
+được sinh từ ẩn nghĩa sao + tính chất cung.
+
 ## Cách build
 
 ```bash
@@ -63,7 +75,9 @@ Các phần trong bài luận giải:
 3. **Phân tích 12 cung** — cung có chính tinh thủ, kèm chú giải theo lĩnh vực.
 4. **Tứ Hoá** — nêu Lộc/Quyền/Khoa/Kỵ.
 5. **Cách cục nổi bật** — các "cách" được phát hiện tự động.
-6. **Gợi ý cuộc sống** — khuyến nghị dựa trên lá số.
+6. **Bản chất, ưu điểm và hạn chế/tiêu cực** — phân tích khách quan từng sao nổi bật,
+   nói thẳng mặt yếu (dựa trên bảng `star_cung_analysis`).
+7. **Gợi ý cuộc sống** — khuyến nghị dựa trên lá số.
 
 ## Truy vấn trực tiếp
 
