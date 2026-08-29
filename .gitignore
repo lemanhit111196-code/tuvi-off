@@ -1,0 +1,12 @@
+# Generated data warehouse / datasets (not tracked in Git).
+/data/tuvi_518400.sqlite
+/data/csv_by_cuc/*.csv.gz
+/data/json_sample/tuvi_sample_*.json
+/data/star_knowledge/*.csv.gz
+/data/star_knowledge/*.json
+/data/luan_giai/*.json
+
+# Local helper/build artifacts.
+*.pyc
+__pycache__/
+*.log
